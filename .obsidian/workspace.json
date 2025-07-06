@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ccfe6ff413d43501",
+    "type": "split",
+    "children": [
+      {
+        "id": "38dea027517f25e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6c001151c99c5c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d410f59477653e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "eefbeb7595b6a696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "012f432014736c78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "181f6bade9b621cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "updated",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73473db0ba6170f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cd11f8b854d35f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0300ec2b7c7e3004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5e8ccd75a64daf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c447f026181e0409",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "УМУН.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of УМУН"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a213c8520bca7dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "258607050e3f767e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b08c1bb81d509f5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "012f432014736c78",
+  "lastOpenFiles": [
+    "notes",
+    "00 - Troubleshooting/Траблшутінг швидкодії.md",
+    "УМУН.md",
+    "04 - Database/Concepts/Первинний ключ.md",
+    "02 - Linux/Обробка тексту.md",
+    "04 - Database/Concepts",
+    "04 - Database/Плоский файл.md",
+    "04 - Database/SQL/Підзапити.md",
+    "03 - Network/рівні tcp ip.md",
+    "07 - Programming/Concepts",
+    "04 - Database/Реляційна база даних.md",
+    "04 - Database/MySQL/Резервні копії у MySQL.md",
+    "02 - Linux/Регулярні вирази.md",
+    "07 - Programming/Regex/Пошук у регулярних виразів.md",
+    "05 - Web/Принцип роботи веб-серверу.md",
+    "03 - Network/приватні ip адреси.md",
+    "03 - Network/спеціальні ip адреси.md",
+    "07 - Programming/SQL/Порядок виконання SQL запиту.md",
+    "01 - OS/12 - Software/популярні архіви.md",
+    "04 - Database/Concepts/Поле.md",
+    "07 - Programming/Bash/Позиційні параметри у bash.md",
+    "04 - Database/MySQL/Реплікація MySQL.md",
+    "03 - Network/рівні моделі OSI.md",
+    "07 - Programming/Bash/Розгалуження у bash.md",
+    "07 - Programming/Bash/Розділювач полів Bash.md",
+    "07 - Programming/SQL/Різниця між WHERE та HAVING.md",
+    "02 - Linux/21 - CLI/перенаправлення виводу.md",
+    "01 - OS/операційна система.md",
+    "03 - Network/Application Layer",
+    "03 - Network/Data Link Layer",
+    "03 - Network/Network Layer",
+    "04 - Database/Concepts",
+    "02 - Linux/15 - System utils",
+    "01 - OS/12 - Software",
+    "01 - OS/10 - Hardware",
+    "01 - OS"
+  ]
+}
