@@ -2,7 +2,7 @@
 date: "{{date}}"
 title: "{{title}}"
 description: 
-draft: 
+draft: false
 tags: 
 aliases: 
 permalink: 

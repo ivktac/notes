@@ -2,7 +2,7 @@
 date: 2025-07-05
 title: vim
 description: 
-draft: true
+draft: false
 tags:
   - man/vim
   - os/text-processing

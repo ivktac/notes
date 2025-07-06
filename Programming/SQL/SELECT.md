@@ -2,7 +2,7 @@
 date: 2025-07-05
 title: SQL
 description: 
-draft: 
+draft: false
 tags:
   - programming/sql
 aliases:
