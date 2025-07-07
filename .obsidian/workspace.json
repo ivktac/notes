@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦮 How To/як налаштувати репліку сервер у mysql?.md",
-                "mode": "source",
+                "file": "man/screen.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "як налаштувати репліку сервер у mysql?"
+              "title": "screen"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦮 How To/як налаштувати репліку сервер у mysql?.md",
+                "file": "man/screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of як налаштувати репліку сервер у mysql?"
+              "title": "Outline of screen"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦮 How To/як налаштувати репліку сервер у mysql?.md",
+                "file": "man/screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for як налаштувати репліку сервер у mysql?"
+              "title": "Backlinks for screen"
             }
           }
         ],
@@ -188,6 +188,7 @@
   },
   "active": "b6c001151c99c5c1",
   "lastOpenFiles": [
+    "🦮 How To/як налаштувати репліку сервер у mysql?.md",
     "Database/MySQL/Реплікація MySQL.md",
     "Database/MySQL/Резервні копії у MySQL.md",
     "Database/MySQL/Налаштування MySQL.md",
@@ -216,7 +217,6 @@
     "Network/спеціальні ip адреси.md",
     "Programming/SQL/Порядок виконання SQL запиту.md",
     "OS/Software/популярні архіви.md",
-    "Database/СКБД/Поле.md",
     "03 - Network/Application Layer",
     "03 - Network/Data Link Layer",
     "03 - Network/Network Layer",
