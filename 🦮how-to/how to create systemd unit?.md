@@ -3,7 +3,9 @@ date: 2025-07-07
 title: Як створити юніт systemd?
 description: 
 draft: false
-tags: 
+tags:
+  - 🦮how-to
+  - man/systemd
 aliases:
   - як створити юніт systemd?
 permalink: how-to-create-systemd-unit

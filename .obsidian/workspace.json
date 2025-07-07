@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38dea027517f25e9",
+        "id": "f139252beb997738",
         "type": "tabs",
         "children": [
           {
-            "id": "cb1971968fd17459",
+            "id": "70d6ed6dc5b93954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/systemd/systemd.timer.md",
-                "mode": "preview",
+                "file": "Linux/Automating/Системні утиліти.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "systemd.timer"
+              "title": "Системні утиліти"
             }
           }
         ]
@@ -63,10 +63,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "updated",
+                "query": "ip",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -82,6 +82,31 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1d6b92cd345dce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08c1bb81d509f5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Automating/Системні утиліти.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Системні утиліти"
             }
           }
         ]
@@ -119,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/systemd/systemd.timer.md",
+                "file": "Linux/Automating/Системні утиліти.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of systemd.timer"
+              "title": "Outline of Системні утиліти"
             }
           }
         ],
@@ -141,35 +166,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦮 How To/як налаштувати репліку сервер у mysql?.md",
+                "file": "Linux/Automating/Системні утиліти.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from як налаштувати репліку сервер у mysql?"
-            }
-          },
-          {
-            "id": "b08c1bb81d509f5a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Linux/systemd/systemd.timer.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for systemd.timer"
+              "title": "Outgoing links from Системні утиліти"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,42 +191,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1971968fd17459",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
-    "Linux/systemd/Типи юнітів у systemd.md",
-    "🦮 How To/how to create systemd unit?.md",
-    "Linux/systemd/systemd.service.md",
-    "Linux/systemd/systemd.timer.md",
-    "Linux/systemd",
-    "Linux/systemd/systemd.target.md",
-    "man/systemd.md",
-    "man/systemctl.md",
-    "man/crontab.md",
-    "DevOps/CI-CD",
-    "DevOps",
-    "Linux/Стуктура cron завдання.md",
-    "man/at.md",
-    "man/cron.md",
-    "man/screen.md",
-    "man/tmux.md",
-    "Linux/CLI/screen vs tmux.md",
-    "inbox",
-    "🦮 How To/як налаштувати репліку сервер у mysql?.md",
-    "Database/MySQL/Реплікація MySQL.md",
-    "Database/MySQL/Резервні копії у MySQL.md",
-    "Database/MySQL/Налаштування MySQL.md",
-    "Database/MySQL/Користувачі і привілеї MySQL.md",
-    "🦮 How To/як визначити тип файлу?.md",
-    "index.md",
-    "templates/default-note.md",
-    "Programming/SQL/SELECT.md",
-    "man/vim.md",
-    "Linux/Обробка тексту.md",
-    "notes",
+    "Linux/Automating/Стуктура cron завдання.md",
+    "Linux/CLI/перенаправлення виводу.md",
+    "Linux/Automating",
+    "Database/SQL.md",
+    "Database/СКБД.md",
+    "Database/СКБД/База даних ієрархічного типу.md",
+    "Database/СКБД/База даних типу \"ключ-значення\".md",
+    "Database/СКБД/Індекс.md",
+    "Database/СКБД/Document-Oriented Database.md",
     "Database/СКБД",
-    "Programming/Concepts",
-    "03 - Network/Application Layer",
-    "03 - Network/Data Link Layer",
-    "03 - Network/Network Layer"
+    "Network/Protocols/IP.md",
+    "Linux/CLI/how bash interpreted commands?.md",
+    "Linux/systemd/systemd.md",
+    "OS/Hardware",
+    "OS/Software",
+    "Network/Security",
+    "Network/Protocols",
+    "Linux/PAM",
+    "Programming/SQL/DISTINCT.md",
+    "Linux/systemd",
+    "Linux/Process",
+    "Linux/Filesystem",
+    "Linux/PAM/Команди для перегляду інформації про користувачів та групи.md",
+    "Programming/Regex/Квантифікатори регулярних виразів.md",
+    "man/top.md",
+    "Linux/CLI/history commands.md",
+    "man/systemctl.md",
+    "Programming/SQL/SELECT.md",
+    "Programming/Bash/builtin set bash.md",
+    "Linux/Filesystem/як відрізнити оригінальний файл від жорсткого посилання?.md",
+    "Programming/Bash/Функції у bash.md",
+    "Linux/Bash.md",
+    "Programming/SQL/LIKE.md",
+    "Linux/CLI/CLI.md",
+    "OS/Software/GUI.md",
+    "Linux/Filesystem/hardlink.md"
   ]
 }

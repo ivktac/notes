@@ -10,7 +10,7 @@ aliases:
 permalink: sql-like
 lang: uk
 ---
-
+da
 > [!tldr]
 > **LIKE** дозволяє шукати текстові значення за шаблоном використовуючи спеціальні символи (wildcards).
 

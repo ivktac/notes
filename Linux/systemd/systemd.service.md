@@ -1,6 +1,6 @@
 ---
 date: 2025-07-07
-title: systemd сервіси
+title: systemd.service
 description: 
 draft: false
 tags:
