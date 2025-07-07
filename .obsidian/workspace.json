@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
+                "file": "man/tmux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmux.md",
+                "file": "man/tmux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmux.md",
+                "file": "man/tmux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6c001151c99c5c1",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
+    "inbox",
     "man/screen.md",
-    "tmux.md",
+    "man/tmux.md",
     "🦮 How To/як налаштувати репліку сервер у mysql?.md",
     "Database/MySQL/Реплікація MySQL.md",
     "Database/MySQL/Резервні копії у MySQL.md",
@@ -216,7 +217,6 @@
     "Programming/Regex/Пошук у регулярних виразів.md",
     "Web/Принцип роботи веб-серверу.md",
     "Network/приватні ip адреси.md",
-    "Network/спеціальні ip адреси.md",
     "03 - Network/Application Layer",
     "03 - Network/Data Link Layer",
     "03 - Network/Network Layer",
