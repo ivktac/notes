@@ -16,41 +16,52 @@ lang: uk
 > [!tldr]
 > **systemctl** — команда для управління [[systemd]].
 
+## Синтаксис
+
+```bash
+systemctl [OPTIONS] COMMAND [UNIT...]
+```
+
 ## Команди
-### Управління станами
 
-| **Команда**                      | **Пояснення**              |
-| -------------------------------- | -------------------------- |
-| `systemctl start name.service`   | Запустити сервіс           |
-| `systemctl stop name.service`    | Зупинити сервіс            |
-| `systemctl restart name.service` | Перезапустити сервіс       |
-| `systemctl reload name.service`  | Перечитати конфігурацію    |
-| `systemctl kill name.service`    | Примусово завершити сервіс |
+### Запуск та зупинка сервісів
 
-### Перевірка станів
-
-
-| **Команда**                         | **Пояснення**              |
-| ----------------------------------- | -------------------------- |
-| `systemctl status name.service`     | Подивитись детальний стан  |
-| `systemctl is-active name.service`  | Чи активний                |
-| `systemctl is-enabled name.service` | Чи увімкнений (автозапуск) |
-| `systemctl is-failed name.service`  | Чи завершився з помилкою   |
+| Команда                                    | Опис                                           |
+| ------------------------------------------ | ---------------------------------------------- |
+| `systemctl start service_name`             | Запустити сервіс                               |
+| `systemctl stop service_name`              | Зупинити сервіс                                |
+| `systemctl restart service_name`           | Перезапустити сервіс                           |
+| `systemctl reload service_name`            | Перезавантажити конфігурацію без перезапуску   |
+| `systemctl reload-or-restart service_name` | Перезавантажити конфігурацію або перезапустити |
 
 ### Автозапуск
 
-| **Команда**                         | **Пояснення**                 |
-| ----------------------------------- | ----------------------------- |
-| `systemctl enable name.service`     | Увімкнути автозапуск          |
-| `systemctl disable name.service`    | Вимкнути автозапуск           |
-| `systemctl is-enabled name.service` | Перевірити статус автозапуску |
+| Команда                               | Опис                          |
+| ------------------------------------- | ----------------------------- |
+| `systemctl enable service_name`       | Увімкнути автозапуск          |
+| `systemctl disable service_name`      | Вимкнути автозапуск           |
+| `systemctl enable --now service_name` | Увімкнути та запустити одразу |
+| `systemctl disable --now service_name | Вимкнути та зупинити одразу   |
+
+## Перегляд стану
+
+| Команда                             | Опис                                |
+| ----------------------------------- | ----------------------------------- |
+| `systemctl status service_name`     | Статус сервісу                      |
+| `systemctl is-active service_name`  | Перевірити чи активний              |
+| `systemctl is-enabled service_name` | Перевірити чи увімкнений автозапуск |
+| `systemctl is-failed service_name`  | Перевірити чи завершився невдало    |
+
+## Інформація про юніти
 
 
-```bash
-systemctl enable name.service
-```
-
-> [!note] Добавити у автозапуск і одразу запустити сервіс: `systemctl enable --now name.service`
+| Команда                                     | Опис                     |
+| ------------------------------------------- | ------------------------ |
+| `systemctl list-units`                      | Список всіх юнітів       |
+| `systemctl list-units --type=service`       | Список всіх сервісів     |
+| `systemctl list-units --failed`             | Список невдалих юнітів   |
+| `systemctl list-unit-files --state=enabled` | Список увімкнених юнітів |
+| `systemctl list-dependencies service_name`  | Дерево залежностей       |
 
 
 ## Див. також

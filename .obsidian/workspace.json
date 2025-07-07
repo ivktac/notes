@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/systemd/Типи юнітів у systemd.md",
-                "mode": "preview",
+                "file": "Linux/systemd/systemd.service.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Типи юнітів у systemd"
+              "title": "systemd.service"
             }
           }
         ],
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/systemd/Типи юнітів у systemd.md",
+                "file": "man/systemctl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Типи юнітів у systemd"
+              "title": "Outgoing links from systemctl"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/systemd/Типи юнітів у systemd.md",
+                "file": "Linux/systemd/systemd.service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Типи юнітів у systemd"
+              "title": "Outline of systemd.service"
             }
           }
         ],
@@ -204,9 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "c74670887d4c1081",
   "lastOpenFiles": [
-    "🦮how-to/how to create systemd unit?.md",
+    "🦮how-to/Як створити systemd юніт?.md",
+    "Linux/systemd/systemd.service.md",
+    "man/systemctl.md",
+    "Linux/systemd/systemd.md",
+    "Linux/systemd/Типи юнітів у systemd.md",
     "🦮how-to/як визначити тип файлу?.md",
     "man/bunzip2.md",
     "man/bzip2.md",
@@ -230,17 +234,13 @@
     "Database/СКБД",
     "Network/Protocols/IP.md",
     "Linux/CLI/how bash interpreted commands?.md",
-    "Linux/systemd/systemd.md",
     "OS/Hardware",
     "OS/Software",
     "Network/Security",
     "Network/Protocols",
     "Linux/PAM",
-    "Programming/SQL/DISTINCT.md",
     "Linux/systemd",
     "Linux/Process",
-    "Linux/Filesystem",
-    "Linux/PAM/Команди для перегляду інформації про користувачів та групи.md",
-    "Programming/Regex/Квантифікатори регулярних виразів.md"
+    "Linux/Filesystem"
   ]
 }

@@ -10,35 +10,60 @@ aliases:
 permalink: man-systemd-service
 lang: uk
 ---
+## Сексція [Unit]
 
-
-## Типи сервісів
-
-| **Тип**   | **Опис**                             |
-| --------- | ------------------------------------ |
-| `simple`  | Основний процес сервісу              |
-| `forking` | Процес створює дочірний процес       |
-| `oneshot` | Процес завершується після запуску    |
-| `notify`  | Сервіс сповіщає про готовність       |
-| `idle`    | Відкладає запуск до завершення інших |
- 
-## Шаблон
+> [!note]-
+> - **Description**: опис сервісу
+> - **Documentation**: посилання на документацію
+> - **After**: запускати після вказаних юнітів
+> - **Before**: запускати перед вказаниими юнітами
+> - **Requires**: жорстка залежність (якщо залежність падає, юніт також)
+> - **Wants**: м'яка залежність
+> - **Conflicts**: конфліктуючі юніти
 
 ```ini
 [Unit]
-Description=My Service
-After=network.target
-
-[Service]
-Type=simple
-ExecStart=command
-Restart=always
-User=root
-
-[Install]
-WantedBy=multi-user.target
+Description=Опис сервісу
+Documentation=https://example.com/docs
+After=network.target syslog.target
+Before=multi-user.target
+Requires=network.target
+Wants=syslog.target
+Conflicts=shutdown.target
 ```
 
+## Секція [Service]
+
+```ini
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/myapp
+Environment=NODE_ENV=production
+EnvironmentFile=/etc/myapp/environment
+ExecStart=/usr/bin/node server.js
+ExecReload=/bin/kill -HUP $MAINPID
+ExecStop=/bin/kill -TERM $MAINPID
+PIDFile=/var/run/myapp.pid
+Restart=on-failure
+RestartSec=5
+TimeoutStartSec=30
+TimeoutStopSec=30
+```
+
+## Типи сервісів
+
+| **Тип**   | **Опис**                                           |
+| --------- | -------------------------------------------------- |
+| `simple`  | процес не форкується (за замовчуванням)            |
+| `exec`    | очікує завершення ExecStart                        |
+| `forking` | процес форкується, батьківський завершується       |
+| `oneshot` | виконується один раз, потім завершується           |
+| `dbus`    | сервіс отримує ім'я на D-Bus                       |
+| `notify`  | сервіс надсилає повідомлення через [[sd_notify()]] |
+| `idle`    | затримка запуску до завершення інших задач         |
+ 
 ## Див. також
 
 - [[systemd.target]]
