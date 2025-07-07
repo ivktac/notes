@@ -5,9 +5,8 @@ description:
 draft: false
 tags:
   - man/crontab
-  - 🌱todo
 aliases: 
-permalink: 
+permalink: man-crontab
 lang: uk
 ---
 

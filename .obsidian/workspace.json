@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "man/systemd.md",
-                "mode": "source",
+                "file": "Linux/systemd/systemd.timer.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "systemd"
+              "title": "systemd.timer"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "man/systemd.md",
+                "file": "Linux/systemd/systemd.timer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of systemd"
+              "title": "Outline of systemd.timer"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "man/systemd.md",
+                "file": "Linux/systemd/systemd.timer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for systemd"
+              "title": "Backlinks for systemd.timer"
             }
           }
         ],
@@ -186,15 +186,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "cb1971968fd17459",
   "lastOpenFiles": [
-    "Linux/Стуктура cron завдання.md",
+    "Linux/systemd/Типи юнітів у systemd.md",
+    "🦮 How To/how to create systemd unit?.md",
+    "Linux/systemd/systemd.service.md",
+    "Linux/systemd/systemd.timer.md",
+    "Linux/systemd",
+    "Linux/systemd/systemd.target.md",
     "man/systemd.md",
+    "man/systemctl.md",
+    "man/crontab.md",
+    "DevOps/CI-CD",
+    "DevOps",
+    "Linux/Стуктура cron завдання.md",
     "man/at.md",
-    "Untitled",
     "man/cron.md",
     "man/screen.md",
-    "man/crontab.md",
     "man/tmux.md",
     "Linux/CLI/screen vs tmux.md",
     "inbox",
@@ -209,20 +217,11 @@
     "Programming/SQL/SELECT.md",
     "man/vim.md",
     "Linux/Обробка тексту.md",
-    "Database/СКБД/Індекс.md",
-    "УМУН.md",
     "notes",
-    "Troubleshooting/Траблшутінг швидкодії.md",
-    "Database/СКБД/Первинний ключ.md",
     "Database/СКБД",
-    "Database/СКБД/Плоский файл.md",
-    "Database/SQL/Підзапити.md",
-    "Network/рівні tcp ip.md",
     "Programming/Concepts",
     "03 - Network/Application Layer",
     "03 - Network/Data Link Layer",
-    "03 - Network/Network Layer",
-    "Database/СКБД",
-    "02 - Linux/15 - System utils"
+    "03 - Network/Network Layer"
   ]
 }
