@@ -210,8 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43e444ce5ea409a3",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
+    "Untitled",
     "man/cron.md",
     "inbox/Стуктура cron завдання.md",
     "man/screen.md",
@@ -241,7 +242,6 @@
     "Database/SQL/Підзапити.md",
     "Network/рівні tcp ip.md",
     "Programming/Concepts",
-    "Database/СКБД/Реляційна база даних.md",
     "03 - Network/Application Layer",
     "03 - Network/Data Link Layer",
     "03 - Network/Network Layer",
