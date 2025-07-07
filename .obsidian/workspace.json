@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Automating/Системні утиліти.md",
+                "file": "Linux/Automating/Стуктура cron завдання.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Системні утиліти"
+              "title": "Стуктура cron завдання"
             }
           }
         ]
@@ -85,9 +85,17 @@
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cd11f8b854d35f2",
+    "type": "split",
+    "children": [
       {
-        "id": "f1d6b92cd345dce8",
+        "id": "0300ec2b7c7e3004",
         "type": "tabs",
         "children": [
           {
@@ -108,21 +116,21 @@
               "icon": "links-coming-in",
               "title": "Backlinks for Системні утиліти"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "8cd11f8b854d35f2",
-    "type": "split",
-    "children": [
-      {
-        "id": "0300ec2b7c7e3004",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "258607050e3f767e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Automating/Стуктура cron завдання.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Стуктура cron завдання"
+            }
+          },
           {
             "id": "c5e8ccd75a64daf1",
             "type": "leaf",
@@ -155,26 +163,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "a213c8520bca7dd4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "258607050e3f767e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Linux/Automating/Системні утиліти.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Системні утиліти"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -191,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "70d6ed6dc5b93954",
   "lastOpenFiles": [
+    "Linux/Automating/Системні утиліти.md",
     "Linux/Automating/Стуктура cron завдання.md",
     "Linux/CLI/перенаправлення виводу.md",
     "Linux/Automating",
@@ -227,7 +216,6 @@
     "Linux/Bash.md",
     "Programming/SQL/LIKE.md",
     "Linux/CLI/CLI.md",
-    "OS/Software/GUI.md",
-    "Linux/Filesystem/hardlink.md"
+    "OS/Software/GUI.md"
   ]
 }
