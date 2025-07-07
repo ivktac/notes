@@ -13,8 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Automating/Стуктура cron завдання.md",
-                "mode": "source",
+                "file": "man/tar.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tar"
+            }
+          },
+          {
+            "id": "c74670887d4c1081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/systemd/Типи юнітів у systemd.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Стуктура cron завдання"
+              "title": "Типи юнітів у systemd"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Automating/Стуктура cron завдання.md",
+                "file": "Linux/systemd/Типи юнітів у systemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Стуктура cron завдання"
+              "title": "Outgoing links from Типи юнітів у systemd"
             }
           },
           {
@@ -152,17 +177,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Automating/Системні утиліти.md",
+                "file": "Linux/systemd/Типи юнітів у systemd.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Системні утиліти"
+              "title": "Outline of Типи юнітів у systemd"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,10 +204,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70d6ed6dc5b93954",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
-    "Linux/Automating/Системні утиліти.md",
+    "🦮how-to/how to create systemd unit?.md",
+    "🦮how-to/як визначити тип файлу?.md",
+    "man/bunzip2.md",
+    "man/bzip2.md",
+    "OS/Software/популярні архіви.md",
+    "man/tar.md",
+    "man/gunzip.md",
+    "man/gzip.md",
+    "OS/Software/Компресор.md",
+    "man/unzip.md",
+    "man/zip.md",
     "Linux/Automating/Стуктура cron завдання.md",
+    "Linux/Automating/Системні утиліти.md",
     "Linux/CLI/перенаправлення виводу.md",
     "Linux/Automating",
     "Database/SQL.md",
@@ -205,17 +241,6 @@
     "Linux/Process",
     "Linux/Filesystem",
     "Linux/PAM/Команди для перегляду інформації про користувачів та групи.md",
-    "Programming/Regex/Квантифікатори регулярних виразів.md",
-    "man/top.md",
-    "Linux/CLI/history commands.md",
-    "man/systemctl.md",
-    "Programming/SQL/SELECT.md",
-    "Programming/Bash/builtin set bash.md",
-    "Linux/Filesystem/як відрізнити оригінальний файл від жорсткого посилання?.md",
-    "Programming/Bash/Функції у bash.md",
-    "Linux/Bash.md",
-    "Programming/SQL/LIKE.md",
-    "Linux/CLI/CLI.md",
-    "OS/Software/GUI.md"
+    "Programming/Regex/Квантифікатори регулярних виразів.md"
   ]
 }
