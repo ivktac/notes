@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "man/screen.md",
+                "file": "tmux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "screen"
+              "title": "tmux"
             }
           }
         ]
@@ -119,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "man/screen.md",
+                "file": "tmux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of screen"
+              "title": "Outline of tmux"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "man/screen.md",
+                "file": "tmux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for screen"
+              "title": "Backlinks for tmux"
             }
           }
         ],
@@ -188,6 +188,8 @@
   },
   "active": "b6c001151c99c5c1",
   "lastOpenFiles": [
+    "man/screen.md",
+    "tmux.md",
     "🦮 How To/як налаштувати репліку сервер у mysql?.md",
     "Database/MySQL/Реплікація MySQL.md",
     "Database/MySQL/Резервні копії у MySQL.md",
@@ -215,8 +217,6 @@
     "Web/Принцип роботи веб-серверу.md",
     "Network/приватні ip адреси.md",
     "Network/спеціальні ip адреси.md",
-    "Programming/SQL/Порядок виконання SQL запиту.md",
-    "OS/Software/популярні архіви.md",
     "03 - Network/Application Layer",
     "03 - Network/Data Link Layer",
     "03 - Network/Network Layer",

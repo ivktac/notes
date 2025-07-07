@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - man/screen
-  - os/remoting
+  - os/multiplexer
 aliases:
   - screen
   - скрін
