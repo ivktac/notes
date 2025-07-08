@@ -5,7 +5,7 @@ description:
 draft: 
 tags:
   - os/cli
-  - 🐧linux
+  - os/🐧linux
 aliases:
   - як оболонка інтерпретує введені команди?
 permalink: how-bash-interprets-commands

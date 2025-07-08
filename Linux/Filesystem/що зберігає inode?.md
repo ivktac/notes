@@ -4,7 +4,7 @@ title: Що зберігає inode?
 description: 
 draft: 
 tags:
-  - 🐧linux
+  - os/🐧linux
   - os/filesystem
 aliases:
   - metadata

@@ -4,7 +4,7 @@ title: Типи файлів у Linux
 description: 
 draft: 
 tags:
-  - 🐧linux
+  - os/🐧linux
   - os/filesystem
 aliases:
   - type files in linux

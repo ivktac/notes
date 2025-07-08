@@ -6,7 +6,7 @@ draft: false
 tags:
   - os/multiplexer
   - man/tmux
-  - 🐧linux
+  - os/🐧linux
 aliases: 
 permalink: man-tmux
 lang: uk

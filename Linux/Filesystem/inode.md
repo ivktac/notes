@@ -4,7 +4,7 @@ title: Метадані файлу
 description: 
 draft: 
 tags:
-  - 🐧linux
+  - os/🐧linux
   - os/filesystem
 aliases:
   - айнод

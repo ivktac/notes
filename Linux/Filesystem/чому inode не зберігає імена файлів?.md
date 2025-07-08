@@ -4,7 +4,7 @@ title: Чому inode не зберігає імена файлів?
 description: 
 draft: 
 tags:
-  - 🐧linux
+  - os/🐧linux
   - os/filesystem
 aliases:
   - why inode doesn't store filename

@@ -5,7 +5,7 @@ description:
 draft: 
 tags:
   - 🦮how-to
-  - 🐧linux
+  - os/🐧linux
   - os/network
 aliases:
   - how to configure linux as router with nat

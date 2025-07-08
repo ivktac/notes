@@ -5,7 +5,7 @@ description:
 draft: 
 tags:
   - os/filesystem
-  - 🐧linux
+  - os/🐧linux
 aliases:
   - символьне посилання
 permalink: symlink

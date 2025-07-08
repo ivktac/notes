@@ -30,6 +30,8 @@ unzip [options] [archive_file] -x [exclude] -d [destination]
 
 ## Приклади
 
+> [!example] Розпакувати у вказану директорію #games/minecraft #os/🐧linux 
+
 ```bash
-unzip archive.zip
+unzip mods.zip -d $HOME/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/$INSTANCE_NAME/minecraft/mods/
 ```

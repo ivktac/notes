@@ -5,7 +5,7 @@ description:
 draft: 
 tags:
   - os/cli
-  - 🐧linux
+  - os/🐧linux
   - troubleshooting/errors
 aliases: 
 permalink: command-not-found

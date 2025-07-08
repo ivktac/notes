@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f139252beb997738",
+        "id": "7582aa4b0ff964b1",
         "type": "tabs",
         "children": [
           {
-            "id": "70d6ed6dc5b93954",
+            "id": "a5bc645a4f50063c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "man/tar.md",
+                "file": "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
                 "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "tar"
-            }
-          },
-          {
-            "id": "c74670887d4c1081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemd/systemd.service.md",
-                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "systemd.service"
+              "title": "how to create systemd timer for automatic docker pull and build"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip",
+                "query": "tag:os/linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/systemd/systemd.service.md",
+                "file": "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of systemd.service"
+              "title": "Outline of how to create systemd timer for automatic docker pull and build"
             }
           }
         ],
@@ -204,10 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c74670887d4c1081",
+  "active": "a5bc645a4f50063c",
   "lastOpenFiles": [
-    "🦮how-to/Як створити systemd юніт?.md",
+    "OS/Linux.md",
+    "man/unzip.md",
+    "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
     "Linux/systemd/systemd.service.md",
+    "man/zip.md",
+    "man/tar.md",
+    "🦮how-to/Як створити systemd юніт?.md",
     "man/systemctl.md",
     "Linux/systemd/systemd.md",
     "Linux/systemd/Типи юнітів у systemd.md",
@@ -215,12 +195,9 @@
     "man/bunzip2.md",
     "man/bzip2.md",
     "OS/Software/популярні архіви.md",
-    "man/tar.md",
     "man/gunzip.md",
     "man/gzip.md",
     "OS/Software/Компресор.md",
-    "man/unzip.md",
-    "man/zip.md",
     "Linux/Automating/Стуктура cron завдання.md",
     "Linux/Automating/Системні утиліти.md",
     "Linux/CLI/перенаправлення виводу.md",
@@ -232,8 +209,6 @@
     "Database/СКБД/Індекс.md",
     "Database/СКБД/Document-Oriented Database.md",
     "Database/СКБД",
-    "Network/Protocols/IP.md",
-    "Linux/CLI/how bash interpreted commands?.md",
     "OS/Hardware",
     "OS/Software",
     "Network/Security",

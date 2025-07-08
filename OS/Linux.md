@@ -4,9 +4,8 @@ title: Linux
 description: 
 draft: 
 tags:
-  - 🐧linux
+  - os/🐧linux
   - opensource
-  - os
 aliases:
   - лінукс
   - лінуха

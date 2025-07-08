@@ -5,7 +5,7 @@ description:
 draft: true
 tags:
   - os/process
-  - 🐧linux
+  - os/🐧linux
   - 🌱todo
 aliases:
   - pipe

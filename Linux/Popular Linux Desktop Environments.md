@@ -4,7 +4,7 @@ title: Популярні графічні облонки у Linux
 description: 
 draft: false
 tags:
-  - 🐧linux
+  - os/🐧linux
   - os/gui
 aliases:
   - графічні облонки

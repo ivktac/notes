@@ -4,7 +4,7 @@ title: Жорстке посилання
 description: 
 draft: 
 tags:
-  - 🐧linux
+  - os/🐧linux
   - os/filesystem
 aliases:
   - жорстке посилання

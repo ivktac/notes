@@ -63,7 +63,42 @@ TimeoutStopSec=30
 | `dbus`    | сервіс отримує ім'я на D-Bus                       |
 | `notify`  | сервіс надсилає повідомлення через [[sd_notify()]] |
 | `idle`    | затримка запуску до завершення інших задач         |
- 
+
+## Сексція [Install]
+> [!note]-
+> - **WantedBy**: в які targets включати при `enable`
+> - **RequiredBy**: жорстка залежність для targets
+> - **Also**: додатково вимкнути/увімкнути ці юніти
+> - **DefaultInstance**: для template юнітів
+
+```ini
+[Install]
+WantedBy=multi-user.target
+RequiredBy=graphical.target
+Also=myservice-helper.service
+DefaultInstance=production
+```
+
+## Приклади
+
+```ini
+[Unit]
+Description=Simple Web Server
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/html
+ExecStart=/usr/bin/python3 -m http.server 8080
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+```
+
 ## Див. також
 
 - [[systemd.target]]
