@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7582aa4b0ff964b1",
+        "id": "42f993634207f123",
         "type": "tabs",
         "children": [
           {
-            "id": "a5bc645a4f50063c",
+            "id": "4841a0ca11bc10dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
-                "mode": "preview",
+                "file": "Programming/Bash/Цикли у bash.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "how to create systemd timer for automatic docker pull and build"
+              "title": "Цикли у bash"
             }
           }
         ]
@@ -152,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
+                "file": "Programming/Bash/Цикли у bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of how to create systemd timer for automatic docker pull and build"
+              "title": "Outline of Цикли у bash"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,43 +179,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5bc645a4f50063c",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
-    "OS/Linux.md",
-    "man/unzip.md",
-    "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
-    "Linux/systemd/systemd.service.md",
-    "man/zip.md",
-    "man/tar.md",
-    "🦮how-to/Як створити systemd юніт?.md",
-    "man/systemctl.md",
+    "Programming/SQL/MySQL.md",
     "Linux/systemd/systemd.md",
-    "Linux/systemd/Типи юнітів у systemd.md",
-    "🦮how-to/як визначити тип файлу?.md",
-    "man/bunzip2.md",
-    "man/bzip2.md",
-    "OS/Software/популярні архіви.md",
-    "man/gunzip.md",
-    "man/gzip.md",
-    "OS/Software/Компресор.md",
+    "Linux/shebang.md",
+    "Linux/Popular Linux Desktop Environments.md",
+    "Linux/Filesystem/файлова система.md",
+    "Linux/Automating/Сценарії оболонки.md",
     "Linux/Automating/Стуктура cron завдання.md",
     "Linux/Automating/Системні утиліти.md",
-    "Linux/CLI/перенаправлення виводу.md",
     "Linux/Automating",
-    "Database/SQL.md",
-    "Database/СКБД.md",
-    "Database/СКБД/База даних ієрархічного типу.md",
-    "Database/СКБД/База даних типу \"ключ-значення\".md",
-    "Database/СКБД/Індекс.md",
-    "Database/СКБД/Document-Oriented Database.md",
-    "Database/СКБД",
-    "OS/Hardware",
-    "OS/Software",
-    "Network/Security",
+    "Database/SQL/Різниця між WHERE та HAVING.md",
+    "OS/Hardware/Процесор.md",
+    "Programming/Bash/Функції у bash.md",
+    "Linux/Filesystem/чому inode не зберігає імена файлів?.md",
+    "🦮how-to/як знайти файл за номером inode?.md",
+    "Linux/Filesystem/шляхи до файлів.md",
+    "Database/MySQL/Резервні копії у MySQL.md",
+    "Database/СКБД/База даних.md",
+    "Programming/Bash/Розділювач полів Bash.md",
+    "Programming/Bash/Розгалуження у bash.md",
+    "Network/приватні ip адреси.md",
+    "Programming/Bash/Арифметичні операції у Bash.md",
+    "Programming/SQL/WHERE.md",
+    "Programming/Regex/Класи символів регулярних виразів.md",
+    "Programming/Bash/Обробка ключів командного рядка у скриптах bash.md",
+    "Programming/Concepts/операнд.md",
+    "Programming/Bash/Позиційні параметри у bash.md",
+    "Database/СКБД/Плоский файл.md",
+    "Programming/Scripting",
     "Network/Protocols",
-    "Linux/PAM",
-    "Linux/systemd",
-    "Linux/Process",
-    "Linux/Filesystem"
+    "Network/Security",
+    "Web/SSL",
+    "Web/HTTP",
+    "Web/Apache",
+    "OS/Software",
+    "OS/Hardware",
+    "Database/СКБД"
   ]
 }
