@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "wan"
             }
+          },
+          {
+            "id": "6a90d20940a64bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/how to convert seconds to hours minutes seconds in bash.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "how to convert seconds to hours minutes seconds in bash"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/wan.md",
+                "file": "inbox/how to convert seconds to hours minutes seconds in bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of wan"
+              "title": "Outline of how to convert seconds to hours minutes seconds in bash"
             }
           }
         ],
@@ -179,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "6a90d20940a64bbd",
   "lastOpenFiles": [
+    "Network/wan.md",
+    "inbox/how to convert seconds to hours minutes seconds in bash.md",
     "Network/firewall/Архітектура iptables.md",
     "🦮how-to/how to split string by delimiter in bash.md",
     "🦮how-to/how to convert delimited string in to newline in bash.md",
@@ -207,8 +234,6 @@
     "OS/Hardware/Процесор.md",
     "Programming/Bash/Функції у bash.md",
     "Linux/Filesystem/чому inode не зберігає імена файлів?.md",
-    "🦮how-to/як знайти файл за номером inode?.md",
-    "Linux/Filesystem/шляхи до файлів.md",
     "Programming/Scripting",
     "Network/Protocols",
     "Network/firewall",
