@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/how to convert seconds to hours minutes seconds in bash.md",
+                "file": "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/how to convert seconds to hours minutes seconds in bash.md",
+                "file": "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a90d20940a64bbd",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
     "Network/wan.md",
-    "inbox/how to convert seconds to hours minutes seconds in bash.md",
+    "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
     "Network/firewall/Архітектура iptables.md",
     "🦮how-to/how to split string by delimiter in bash.md",
     "🦮how-to/how to convert delimited string in to newline in bash.md",
