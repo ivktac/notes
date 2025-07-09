@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9705de7b351cc72f",
+        "id": "5c87d2c6810aba11",
         "type": "tabs",
         "children": [
           {
-            "id": "874dae5bc6825d1f",
+            "id": "339c5c2a799dcf9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/kill.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "kill"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:os/linux",
+                "query": "tag:#docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "man/systemctl.md",
+                "file": "notes/kill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from systemctl"
+              "title": "Outgoing links from kill"
             }
           },
           {
@@ -138,16 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/kill.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of kill"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,35 +179,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "874dae5bc6825d1f",
+  "active": "339c5c2a799dcf9c",
   "lastOpenFiles": [
-    "notes/як налаштувати linux як роутер з nat?.md",
+    "notes/сигнали процесів.md",
+    "notes/kill.md",
+    "notes/pstree.md",
+    "notes/ps.md",
+    "notes/top.md",
+    "notes/Атрибути процесів.md",
+    "notes/типи процесів.md",
+    "notes/життєвий цикл процесу.md",
+    "notes/Процес.md",
+    "notes/Зомбі процес.md",
+    "notes/Чому виникають зомбі процеси?.md",
+    "notes/fork().md",
+    "notes/Copy-on-write.md",
+    "notes/віртуальна пам'ять.md",
+    "notes/з чого складається процес?.md",
+    "notes/how to create systemd timer for automatic docker pull and build.md",
+    "notes/Apache HTTP Server.md",
+    "index.md",
     "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
     "notes/Скільки потрібно правил для роботи протоколу UDP?.md",
-    "notes/Правила iptables.md",
-    "notes/iptables.md",
-    "notes/NAT таблиця.md",
     "notes/Стани з'єднань iptables.md",
-    "notes/Налаштування filter таблиці.md",
-    "notes/Користувацькі ланцюжки iptables.md",
-    "notes/Ланцюжки iptables.md",
+    "notes/Правила iptables.md",
+    "notes/Архітектура iptables.md",
     "notes/Таблиці iptables.md",
-    "notes/Політика за замовчуванням у iptables.md",
-    "index.md",
-    "notes/index.md",
-    "notes/default-note.md",
-    "journal/2025-07-06.md",
-    "journal/2025-07-04 1.md",
-    "journal/2025-07-05 1.md",
-    "journal/2025-07-06 1.md",
-    "notes/how to convert seconds to hours minutes seconds in bash.md",
-    "notes/how to convert delimited string in to newline in bash.md",
-    "templates/default-note.md",
-    "notes/how to split string by delimiter in bash.md",
+    "notes/iptables.md",
+    "notes/Як обробляються ланцюжки у iptables?.md",
     "templates",
-    "notes/shebang.md",
-    "notes/Popular Linux Desktop Environments.md",
-    "notes/Сценарії оболонки.md",
     "notes",
     "inbox",
     "Linux/Automating",

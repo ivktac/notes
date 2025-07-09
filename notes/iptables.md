@@ -2,11 +2,10 @@
 date: 2025-07-03
 title: iptables
 description: 
-draft: true
+draft: false
 tags:
   - man/iptables
   - os/network
-  - 🌱todo
 permalink: man-iptables
 lang: uk
 ---
@@ -29,3 +28,8 @@ lang: uk
 ## Див. також
 
 - [[Архітектура iptables]]
+
+## Корисні джерела
+
+- https://cheat.sh/iptables
+- https://manned.org/iptables
