@@ -2,7 +2,7 @@
 date: 2025-07-03
 title: Як налаштувати Linux як Роутер з NAT?
 description: 
-draft: 
+draft: false
 tags:
   - 🦮how-to
   - os/🐧linux

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c8ee467e4732140",
+        "id": "9705de7b351cc72f",
         "type": "tabs",
         "children": [
           {
-            "id": "af09840fa87e2ee6",
+            "id": "874dae5bc6825d1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Скільки потрібно правил для роботи протоколу TCP?"
+              "title": "New tab"
             }
           }
         ]
@@ -152,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Скільки потрібно правил для роботи протоколу TCP?"
+              "title": "Outline"
             }
           }
         ],
@@ -179,10 +164,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af09840fa87e2ee6",
+  "active": "874dae5bc6825d1f",
   "lastOpenFiles": [
-    "notes/Скільки потрібно правил для роботи протоколу UDP?.md",
+    "notes/як налаштувати linux як роутер з nat?.md",
     "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
+    "notes/Скільки потрібно правил для роботи протоколу UDP?.md",
     "notes/Правила iptables.md",
     "notes/iptables.md",
     "notes/NAT таблиця.md",
@@ -207,7 +193,6 @@
     "notes/shebang.md",
     "notes/Popular Linux Desktop Environments.md",
     "notes/Сценарії оболонки.md",
-    "notes/Стуктура cron завдання.md",
     "notes",
     "inbox",
     "Linux/Automating",
