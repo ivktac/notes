@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42f993634207f123",
+        "id": "4633eb27d0818527",
         "type": "tabs",
         "children": [
           {
-            "id": "4841a0ca11bc10dc",
+            "id": "523796c4cf9e443a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Bash/Цикли у bash.md",
+                "file": "Network/wan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Цикли у bash"
+              "title": "wan"
             }
           }
         ]
@@ -152,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Bash/Цикли у bash.md",
+                "file": "Network/wan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Цикли у bash"
+              "title": "Outline of wan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,9 +181,22 @@
   },
   "active": "012f432014736c78",
   "lastOpenFiles": [
+    "Network/firewall/Архітектура iptables.md",
+    "🦮how-to/how to split string by delimiter in bash.md",
+    "🦮how-to/how to convert delimited string in to newline in bash.md",
+    "Programming/Bash/Розширення параметрів у Bash.md",
+    "Programming/Bash/Масиви у bash.md",
+    "Network/firewall/Таблиці iptables.md",
+    "man/iptables.md",
+    "Network/firewall/Як обробляються ланцюжки у iptables?.md",
+    "Network/firewall/Політика за замовчуванням у iptables.md",
+    "Network/firewall/Ланцюжки iptables.md",
+    "Network/firewall/Типи фаєрволів.md",
+    "Network/firewall.md",
+    "Linux/shebang.md",
+    "inbox",
     "Programming/SQL/MySQL.md",
     "Linux/systemd/systemd.md",
-    "Linux/shebang.md",
     "Linux/Popular Linux Desktop Environments.md",
     "Linux/Filesystem/файлова система.md",
     "Linux/Automating/Сценарії оболонки.md",
@@ -196,26 +209,13 @@
     "Linux/Filesystem/чому inode не зберігає імена файлів?.md",
     "🦮how-to/як знайти файл за номером inode?.md",
     "Linux/Filesystem/шляхи до файлів.md",
-    "Database/MySQL/Резервні копії у MySQL.md",
-    "Database/СКБД/База даних.md",
-    "Programming/Bash/Розділювач полів Bash.md",
-    "Programming/Bash/Розгалуження у bash.md",
-    "Network/приватні ip адреси.md",
-    "Programming/Bash/Арифметичні операції у Bash.md",
-    "Programming/SQL/WHERE.md",
-    "Programming/Regex/Класи символів регулярних виразів.md",
-    "Programming/Bash/Обробка ключів командного рядка у скриптах bash.md",
-    "Programming/Concepts/операнд.md",
-    "Programming/Bash/Позиційні параметри у bash.md",
-    "Database/СКБД/Плоский файл.md",
     "Programming/Scripting",
     "Network/Protocols",
-    "Network/Security",
+    "Network/firewall",
     "Web/SSL",
     "Web/HTTP",
     "Web/Apache",
     "OS/Software",
-    "OS/Hardware",
-    "Database/СКБД"
+    "OS/Hardware"
   ]
 }

@@ -5,8 +5,7 @@ description:
 draft: 
 tags:
   - security
-  - 🌐network
-  - os/network
+  - 🌐network/firewall
 aliases:
   - фаєрвол
   - фільтрація
@@ -19,5 +18,6 @@ lang: uk
 
 ## Див. також
 
+- [[Типи фаєрволів]]
 - [[iptables]]
 - [[NAT]]
