@@ -25,3 +25,7 @@ for item in "${ARRAY[@]}"; do
 	echo "$item"
 done
 ```
+
+## Див. також
+
+- [[Bash]]

@@ -14,3 +14,7 @@ lang: uk
 > ```bash
 > echo "$csv_string" | tr "," "\n"
 > ```
+
+## Див. також
+
+- [[tr]]

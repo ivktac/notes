@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4633eb27d0818527",
+        "id": "57eee656b631a14b",
         "type": "tabs",
         "children": [
           {
-            "id": "523796c4cf9e443a",
+            "id": "9a0b8ee400c42ac9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network/wan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "wan"
-            }
-          },
-          {
-            "id": "6a90d20940a64bbd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,34 +164,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a90d20940a64bbd",
+  "active": "9a0b8ee400c42ac9",
   "lastOpenFiles": [
-    "Linux/Filesystem/типи файлів у linux.md",
-    "🦮how-to/як показати тільки каталоги?.md",
-    "🦮how-to/як перевірити стан батереї?.md",
-    "🦮how-to/як перевірити використання пам'яті процесами?.md",
-    "🦮how-to/як отримати статистику по використанню inode у файловій системі?.md",
-    "🦮how-to/як отримати метадані файлу?.md",
-    "🦮how-to/як отримати inode файлу?.md",
-    "🦮how-to/як налаштувати репліку сервер у mysql?.md",
-    "🦮how-to/як налаштувати linux як роутер з nat?.md",
-    "🦮how-to/як знайти файл за номером inode?.md",
-    "🦮how-to/як визначити тип файлу?.md",
-    "🦮how-to/how to split string by delimiter in bash.md",
-    "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
-    "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
-    "🦮how-to/how to convert delimited string in to newline in bash.md",
-    "Network/wan.md",
-    "Network/firewall/Архітектура iptables.md",
-    "Programming/Bash/Розширення параметрів у Bash.md",
-    "Programming/Bash/Масиви у bash.md",
-    "Network/firewall/Таблиці iptables.md",
-    "man/iptables.md",
-    "Network/firewall/Як обробляються ланцюжки у iptables?.md",
-    "Network/firewall/Політика за замовчуванням у iptables.md",
-    "Network/firewall/Ланцюжки iptables.md",
-    "Network/firewall/Типи фаєрволів.md",
-    "Network/firewall.md",
+    "journal/2025-07-06.md",
+    "journal/2025-07-04 1.md",
+    "journal/2025-07-05 1.md",
+    "journal/2025-07-06 1.md",
+    "notes/how to convert seconds to hours minutes seconds in bash.md",
+    "notes/how to convert delimited string in to newline in bash.md",
+    "templates/default-note.md",
+    "notes/how to split string by delimiter in bash.md",
+    "templates",
+    "notes/shebang.md",
+    "notes/Popular Linux Desktop Environments.md",
+    "notes/Сценарії оболонки.md",
+    "notes/Стуктура cron завдання.md",
+    "notes/Системні утиліти.md",
+    "notes/Регулярні вирази.md",
+    "notes/Обробка тексту.md",
+    "notes/Bash.md",
+    "notes/systemd.md",
+    "notes/Типи юнітів у systemd.md",
+    "notes/systemd.target.md",
+    "notes/systemd.service.md",
+    "notes/systemd.timer.md",
+    "notes/як виконується програма?.md",
+    "notes/Процес.md",
+    "notes/з чого складається процес?.md",
+    "notes/pipes.md",
+    "notes/Утиліти для роботи з користувачами та групами.md",
+    "notes",
     "inbox",
     "Linux/Automating",
     "Programming/Scripting",
@@ -224,8 +201,6 @@
     "Network/firewall",
     "Web/SSL",
     "Web/HTTP",
-    "Web/Apache",
-    "OS/Software",
-    "OS/Hardware"
+    "Web/Apache"
   ]
 }
