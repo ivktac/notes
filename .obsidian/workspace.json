@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "57eee656b631a14b",
+        "id": "3c8ee467e4732140",
         "type": "tabs",
         "children": [
           {
-            "id": "9a0b8ee400c42ac9",
+            "id": "af09840fa87e2ee6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Скільки потрібно правил для роботи протоколу TCP?"
             }
           }
         ]
@@ -138,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Скільки потрібно правил для роботи протоколу TCP?"
             }
           }
         ],
@@ -164,8 +179,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a0b8ee400c42ac9",
+  "active": "af09840fa87e2ee6",
   "lastOpenFiles": [
+    "notes/Скільки потрібно правил для роботи протоколу UDP?.md",
+    "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
+    "notes/Правила iptables.md",
+    "notes/iptables.md",
+    "notes/NAT таблиця.md",
+    "notes/Стани з'єднань iptables.md",
+    "notes/Налаштування filter таблиці.md",
+    "notes/Користувацькі ланцюжки iptables.md",
+    "notes/Ланцюжки iptables.md",
+    "notes/Таблиці iptables.md",
+    "notes/Політика за замовчуванням у iptables.md",
+    "index.md",
     "notes/index.md",
     "notes/default-note.md",
     "journal/2025-07-06.md",
@@ -181,18 +208,6 @@
     "notes/Popular Linux Desktop Environments.md",
     "notes/Сценарії оболонки.md",
     "notes/Стуктура cron завдання.md",
-    "notes/Системні утиліти.md",
-    "notes/Регулярні вирази.md",
-    "notes/Обробка тексту.md",
-    "notes/Bash.md",
-    "notes/systemd.md",
-    "notes/Типи юнітів у systemd.md",
-    "notes/systemd.target.md",
-    "notes/systemd.service.md",
-    "notes/systemd.timer.md",
-    "notes/як виконується програма?.md",
-    "notes/Процес.md",
-    "notes/з чого складається процес?.md",
     "notes",
     "inbox",
     "Linux/Automating",
