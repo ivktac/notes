@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c87d2c6810aba11",
+        "id": "e3885776398755f7",
         "type": "tabs",
         "children": [
           {
-            "id": "339c5c2a799dcf9c",
+            "id": "e706751ff1d9b686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/kill.md",
-                "mode": "preview",
+                "file": "notes/Команди управління завданнями.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "kill"
+              "title": "Команди управління завданнями"
+            }
+          },
+          {
+            "id": "97e970746f4a203b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "notes/стандартні потоки.md",
+                "bFile": "notes/стандартні потоки.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: стандартні потоки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker",
+                "query": "tag:#api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,8 +98,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d8712623fc70d266",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -123,12 +149,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/kill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from kill"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,17 +177,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/kill.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of kill"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,9 +203,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "339c5c2a799dcf9c",
+  "active": "97e970746f4a203b",
   "lastOpenFiles": [
+    "notes/стандартні потоки.md",
+    "notes/перенаправлення потоків.md",
     "notes/сигнали процесів.md",
+    "notes/pipes.md",
+    "notes/Команди управління завданнями.md",
+    "notes/Завдання jobs.md",
+    "notes/killall.md",
     "notes/kill.md",
     "notes/pstree.md",
     "notes/ps.md",
@@ -201,12 +231,6 @@
     "index.md",
     "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
     "notes/Скільки потрібно правил для роботи протоколу UDP?.md",
-    "notes/Стани з'єднань iptables.md",
-    "notes/Правила iptables.md",
-    "notes/Архітектура iptables.md",
-    "notes/Таблиці iptables.md",
-    "notes/iptables.md",
-    "notes/Як обробляються ланцюжки у iptables?.md",
     "templates",
     "notes",
     "inbox",
