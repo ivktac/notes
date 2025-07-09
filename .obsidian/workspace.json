@@ -35,24 +35,10 @@
             "id": "6a90d20940a64bbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "how to convert seconds to hours minutes seconds in bash"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -177,13 +163,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of how to convert seconds to hours minutes seconds in bash"
+              "title": "Outline"
             }
           }
         ],
@@ -204,13 +189,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "6a90d20940a64bbd",
   "lastOpenFiles": [
-    "Network/wan.md",
-    "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
-    "Network/firewall/Архітектура iptables.md",
+    "Linux/Filesystem/типи файлів у linux.md",
+    "🦮how-to/як показати тільки каталоги?.md",
+    "🦮how-to/як перевірити стан батереї?.md",
+    "🦮how-to/як перевірити використання пам'яті процесами?.md",
+    "🦮how-to/як отримати статистику по використанню inode у файловій системі?.md",
+    "🦮how-to/як отримати метадані файлу?.md",
+    "🦮how-to/як отримати inode файлу?.md",
+    "🦮how-to/як налаштувати репліку сервер у mysql?.md",
+    "🦮how-to/як налаштувати linux як роутер з nat?.md",
+    "🦮how-to/як знайти файл за номером inode?.md",
+    "🦮how-to/як визначити тип файлу?.md",
     "🦮how-to/how to split string by delimiter in bash.md",
+    "🦮how-to/how to create systemd timer for automatic docker pull and build.md",
+    "🦮how-to/how to convert seconds to hours minutes seconds in bash.md",
     "🦮how-to/how to convert delimited string in to newline in bash.md",
+    "Network/wan.md",
+    "Network/firewall/Архітектура iptables.md",
     "Programming/Bash/Розширення параметрів у Bash.md",
     "Programming/Bash/Масиви у bash.md",
     "Network/firewall/Таблиці iptables.md",
@@ -220,20 +217,8 @@
     "Network/firewall/Ланцюжки iptables.md",
     "Network/firewall/Типи фаєрволів.md",
     "Network/firewall.md",
-    "Linux/shebang.md",
     "inbox",
-    "Programming/SQL/MySQL.md",
-    "Linux/systemd/systemd.md",
-    "Linux/Popular Linux Desktop Environments.md",
-    "Linux/Filesystem/файлова система.md",
-    "Linux/Automating/Сценарії оболонки.md",
-    "Linux/Automating/Стуктура cron завдання.md",
-    "Linux/Automating/Системні утиліти.md",
     "Linux/Automating",
-    "Database/SQL/Різниця між WHERE та HAVING.md",
-    "OS/Hardware/Процесор.md",
-    "Programming/Bash/Функції у bash.md",
-    "Linux/Filesystem/чому inode не зберігає імена файлів?.md",
     "Programming/Scripting",
     "Network/Protocols",
     "Network/firewall",

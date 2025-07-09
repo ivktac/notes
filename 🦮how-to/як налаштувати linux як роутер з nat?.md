@@ -34,7 +34,7 @@ iptables -A FORWARD -i <eth0> -o <eth1> -j ACCEPT
 4. Дозволити встановлені з'єднання з зовні
 
 ```bash
-iptables -A FORWARD -i <eth1> -o <eth0> --ctstate RELATED,DESTABLISHED -j ACCEPT
+iptables -A FORWARD -i <eth1> -o <eth0> --ctstate RELATED,ESTABLISHED -j ACCEPT
 ```
 
 5. Дропнути увесь інший трафік

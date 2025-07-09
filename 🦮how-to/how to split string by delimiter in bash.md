@@ -19,7 +19,7 @@ done
 
 Або
 
-```
+```bash
 IFS=',' read -ra ARRAY <<< "$string"
 for item in "${ARRAY[@]}"; do
 	echo "$item"
