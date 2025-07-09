@@ -119,4 +119,4 @@ done
 
 - [[Змінні у Bash]]
 - [[Цикли у bash]]
-- [[Parameter expansion]]
+- [[Розширення параметрів у Bash]]

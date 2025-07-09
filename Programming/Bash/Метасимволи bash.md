@@ -23,5 +23,5 @@ lang: uk
 
 ## Див. також
 
-- [[Parameter expansion]]
+- [[Розширення параметрів у Bash]]
 - [[Змінні у Bash]]
