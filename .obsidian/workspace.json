@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3885776398755f7",
+        "id": "aadc82980c4a0ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "e706751ff1d9b686",
+            "id": "b83f4a3777f01bae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Дистрибутиви Linux.md",
+                "file": "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Дистрибутиви Linux"
+              "title": "Скільки потрібно правил для роботи протоколу TCP?"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Дистрибутиви Linux.md",
+                "file": "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Дистрибутиви Linux"
+              "title": "Outline of Скільки потрібно правил для роботи протоколу TCP?"
             }
           }
         ],
@@ -189,34 +188,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e706751ff1d9b686",
+  "active": "b83f4a3777f01bae",
   "lastOpenFiles": [
-    "notes/Команди управління завданнями.md",
-    "notes/Дистрибутиви Linux.md",
-    "notes/стандартні потоки.md",
-    "notes/перенаправлення потоків.md",
-    "notes/сигнали процесів.md",
-    "notes/pipes.md",
-    "notes/Завдання jobs.md",
-    "notes/killall.md",
-    "notes/kill.md",
-    "notes/pstree.md",
-    "notes/ps.md",
-    "notes/top.md",
-    "notes/Атрибути процесів.md",
-    "notes/типи процесів.md",
-    "notes/життєвий цикл процесу.md",
-    "notes/Процес.md",
-    "notes/Зомбі процес.md",
-    "notes/Чому виникають зомбі процеси?.md",
-    "notes/fork().md",
-    "notes/Copy-on-write.md",
-    "notes/віртуальна пам'ять.md",
-    "notes/з чого складається процес?.md",
-    "notes/how to create systemd timer for automatic docker pull and build.md",
+    "notes/Політика за замовчуванням.md",
+    "notes/Обробка ключів командного рядка у скриптах bash.md",
+    "notes/Позиційні параметри у bash.md",
+    "notes/Плоский файл.md",
+    "notes/Підзапити.md",
+    "notes/Первинний ключ.md",
+    "notes/Метасимволи регулярних виразів.md",
+    "notes/ORDER BY.md",
+    "notes/lan.md",
+    "notes/inode.md",
+    "notes/Command not found.md",
+    "notes/at.md",
+    "notes/ARP.md",
     "notes/Apache HTTP Server.md",
-    "index.md",
-    "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
+    "notes/bzip2.md",
+    "notes/CLI.md",
+    "notes/WHERE.md",
+    "notes/HAVING.md",
+    "notes/Порядок виконання SQL запиту.md",
+    "notes/GROUP BY.md",
+    "notes/Різниця між WHERE та HAVING.md",
+    "notes/Фільтрація результатів у SQL.md",
+    "notes/DISTINCT.md",
+    "notes/crontab.md",
+    "notes/Архітектура apache.md",
+    "notes/Copy-on-write.md",
     "templates",
     "notes",
     "inbox",

@@ -14,13 +14,6 @@ lang: uk
 
 ##  Види розгалужень
 
-- **if**
-- **if-else**
-- **if-elif-else**
-- **case-statement**
-
-## Приклади
-
 - базовий if
 
 ```bash

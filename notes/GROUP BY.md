@@ -23,7 +23,7 @@ FROM table_name
 GROUP BY col1;
 ```
 
-## Коли використовувати?
+## Навіщо?
 
 - Потрібна статистика по групам
 - Підрахунок к-сть запитів за категоріями
@@ -32,33 +32,34 @@ GROUP BY col1;
 
 ## Приклади
 
-- К-сть клієнтів по містах
+ > [!example] К-сть клієнтів по містах
+> 
+> ```sql
+> SELECT city, COUNT(*) AS customer_count
+> FROM customers
+> GROUP BY city;
+> ```
 
-```sql
-SELECT city, COUNT(*) AS customer_count
-FROM customers
-GROUP BY city;
-```
+ > [!example] Максимальна та мінімальна ціна по категоріях
+> ```sql
+> SELECT 
+>	category,
+>	MIN(price) AS min_price, 
+>	MAX(price) AS max_price,
+>	COUNT(*) AS product_count 
+>FROM products
+>GROUP BY category;
+> ```
 
-- Максимальна та мінімальна ціна по категоріях
-```sql
-SELECT 
-	category,
-	MIN(price) AS min_price, 
-	MAX(price) AS max_price,
-	COUNT(*) AS product_count 
-FROM products
-GROUP BY category;
-```
 
-- Аналіз продажів по днях тижня
-
-```sql
-SELECT
-	DAYNAME(order_date) AS day_of_week,
-	COUNT(*) AS orders_count
-	AVG(total) AS avg_order_value
-FROM orders
-GROUP BY DAYNAME(order_date), DAYOFWEEK(order_date)
-ORDER BY DAYOFWEEK(order_date);
-```
+> [!example] Аналіз продажів по днях тижня
+> 
+> ```sql
+> SELECT
+>	DAYNAME(order_date) AS day_of_week,
+>	COUNT(*) AS orders_count
+>	AVG(total) AS avg_order_value
+>FROM orders
+>GROUP BY DAYNAME(order_date), DAYOFWEEK(order_date)
+>ORDER BY DAYOFWEEK(order_date);
+>```

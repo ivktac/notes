@@ -33,14 +33,13 @@ HAVING condition;
 
 ## Приклади
 
-- Категорії з середньою ціною > 100
-
-```sql
-SELECT category, AVG(price) AS avg_price 
-FROM products 
-GROUP BY category
-HAVING AVG(price) > 100;
-```
+ > [!example] Категорії з середньою ціною $> 100$
+> ```sql
+> SELECT category, AVG(price) AS avg_price 
+> FROM products 
+> GROUP BY category
+> HAVING AVG(price) > 100;
+> ```
 
 ## Див. також
 

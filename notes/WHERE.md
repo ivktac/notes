@@ -12,7 +12,7 @@ lang: uk
 ---
 
 > [!tldr]
-> **WHERE** — це команада, яка дозволяє фільтрувати рядки таблиці за певним критерієм (або критеріями).
+> **WHERE** — це команда, яка дозволяє фільтрувати рядки таблиці за певним критерієм (або критеріями).
 
 > [!warning] Важливо
 > **WHERE** не працює з агрегатними функціями.
@@ -26,20 +26,20 @@ WHERE condition;
 
 ## Приклади
 
-- Прості порівняння
+> [!example] Прості порівняння
+> 
+> ```sql
+> SELECT * FROM products WHERE price > 100;
+> SELECT * FROM customers WHERE age = 25;
+> SELECT * FROM orders WHERE status = 'completed'; 
+> ```
 
-```sql
-SELECT * FROM products WHERE price > 100;
-SELECT * FROM customers WHERE age = 25;
-SELECT * FROM orders WHERE status = 'completed'; 
-```
-
-- Комбінування умов 
-
-```sql
-SELECT * FROM products WHERE price > 50 AND category = 'electronics';
-SELECT * FROM customers WHERE age < 18 OR age > 65;
-```
+ > [!example] Комбінування умов 
+> 
+> ```sql
+> SELECT * FROM products WHERE price > 50 AND category = 'electronics';
+> SELECT * FROM customers WHERE age < 18 OR age > 65;
+> ```
 
 ## Див. також
 

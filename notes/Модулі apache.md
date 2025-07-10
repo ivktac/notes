@@ -11,8 +11,8 @@ aliases:
 permalink: apache-modules
 lang: uk
 ---
-
-- `mod_rewrite` — перенаправлення URL
-- `mod_php` — обробка PHP-запитів
-- `mod_ssl` — підтримка HTTPS
-- `mod_proxy` — проксі-сервер
+> [!info] Основні модулі
+> - `mod_rewrite` — перенаправлення URL
+> - `mod_php` — обробка PHP-запитів
+> - `mod_ssl` — підтримка HTTPS
+> - `mod_proxy` — проксі-сервер
