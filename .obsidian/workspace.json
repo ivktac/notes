@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/renice.md",
+                "file": "notes/Налаштування MySQL.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "renice"
+              "title": "Налаштування MySQL"
+            }
+          },
+          {
+            "id": "ac074aab65b9ba02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/як перевірити чи працює mysql на хості?.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "як перевірити чи працює mysql на хості?"
+            }
+          },
+          {
+            "id": "dcd70ed54bbcab17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/як підключитись до серверу mysql?.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "як підключитись до серверу mysql?"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/renice.md",
+                "file": "notes/як підключитись до серверу mysql?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of renice"
+              "title": "Outline of як підключитись до серверу mysql?"
             }
           }
         ],
@@ -188,10 +237,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "caa7944badf93362",
+  "active": "dcd70ed54bbcab17",
   "lastOpenFiles": [
-    "notes/nice.md",
+    "notes/як підключитись до серверу mysql?.md",
+    "notes/як перевірити чи працює mysql на хості?.md",
+    "notes/Налаштування MySQL.md",
+    "notes/MySQL.md",
+    "notes/Робота із зміннами у MySQL.md",
     "notes/renice.md",
+    "notes/nice.md",
     "notes/ps.md",
     "notes/Завдання jobs.md",
     "notes/Команди управління завданнями.md",
@@ -211,11 +265,6 @@
     "notes/Політика за замовчуванням.md",
     "notes/Обробка ключів командного рядка у скриптах bash.md",
     "notes/Позиційні параметри у bash.md",
-    "notes/Плоский файл.md",
-    "notes/Підзапити.md",
-    "notes/Первинний ключ.md",
-    "notes/Метасимволи регулярних виразів.md",
-    "notes/ORDER BY.md",
     "templates",
     "notes",
     "inbox",
