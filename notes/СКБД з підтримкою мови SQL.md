@@ -10,7 +10,7 @@ permalink: sql-databases
 lang: uk
 ---
 
-- [[MySQL]]
+- [[notes/MySQL]]
 - [[PostgreSQL]]
 - [[Oracle Database]]
 - [[SQL Server]]

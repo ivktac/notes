@@ -17,8 +17,6 @@ lang: uk
 > [!tldr]
 > **Bash** (Bourne Again Shell) — [[shell|командна оболонка]] та [[мова програмування]] для Unix-подібних систем.
 
-## Див. також
-
 - [[Коментарі у Bash]]
 - [[Метасимволи bash]]
 - [[Змінні у Bash]]
@@ -37,4 +35,4 @@ lang: uk
 - https://www.gnu.org/software/bash/manual/bash.html
 - https://tldp.org/LDP/Bash-Beginners-Guide/html/
 - https://tldp.org/LDP/abs/html/
-- https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html
+- https://jvns.ca/blog/2017/03/26/bash-quirks/

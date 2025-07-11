@@ -1,10 +1,12 @@
 ---
 date: 2025-07-04
 title: Parameter expansion
-draft: false
+draft: true
 description: 
 tags:
   - programming/bash
+  - 🌱todo
+  - fixme
 aliases:
   - bash parameter expansion
 permalink: bash-parameter-expansion

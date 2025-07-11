@@ -6,7 +6,6 @@ draft: false
 tags:
   - os/process
   - os/🐧linux
-  - 🌱todo
 aliases:
   - pipe
   - pipes

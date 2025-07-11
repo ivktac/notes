@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae556cb52506341a",
+        "id": "be12ac01f573f67d",
         "type": "tabs",
         "children": [
           {
-            "id": "caa7944badf93362",
+            "id": "07f768e1d2ffe6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Налаштування MySQL.md",
+                "file": "notes/шляхи до файлів.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -23,21 +23,21 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Налаштування MySQL"
+              "title": "шляхи до файлів"
             }
           },
           {
-            "id": "ac074aab65b9ba02",
+            "id": "c58e84f6e1629d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/як перевірити чи працює mysql на хості?.md",
+                "file": "notes/реплікація.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "як перевірити чи працює mysql на хості?"
+              "title": "реплікація"
             }
           },
           {
-            "id": "dcd70ed54bbcab17",
+            "id": "b474abe4637ee088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/як підключитись до серверу mysql?.md",
-                "mode": "preview",
+                "file": "notes/Процес.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "як підключитись до серверу mysql?"
+              "title": "Процес"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#api",
+                "query": "tag:🌱todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +143,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/як підключитись до серверу mysql?.md",
+                "file": "notes/Процес.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of як підключитись до серверу mysql?"
+              "title": "Outline of Процес"
             }
           }
         ],
@@ -237,34 +238,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcd70ed54bbcab17",
+  "active": "b474abe4637ee088",
   "lastOpenFiles": [
-    "notes/як підключитись до серверу mysql?.md",
-    "notes/як перевірити чи працює mysql на хості?.md",
-    "notes/Налаштування MySQL.md",
-    "notes/MySQL.md",
-    "notes/Робота із зміннами у MySQL.md",
-    "notes/renice.md",
-    "notes/nice.md",
-    "notes/ps.md",
-    "notes/Завдання jobs.md",
-    "notes/Команди управління завданнями.md",
-    "notes/Коди статусу HTTP.md",
-    "notes/Розділювач полів Bash.md",
+    "notes/Linux.md",
+    "notes/файлова система.md",
+    "index.md",
+    "notes/cd.md",
+    "notes/як перевірити чи працює репліка у MySQL?.md",
+    "notes/як вказати яку базу даних реплікувати у MySQL?.md",
+    "notes/реплікація.md",
+    "notes/шляхи до файлів.md",
+    "notes/як мігрувати існуючі дані до репліки у MySQL.md",
+    "notes/Типи реплікацій.md",
+    "notes/Асинхрона реплікація.md",
+    "notes/Синхронна реплікація.md",
+    "notes/Semi-synchronous реплікація.md",
+    "notes/Реплікація у MySQL.md",
+    "notes/Row-based реплікація.md",
+    "notes/Statement-based реплікація.md",
+    "notes/Формати реплікацій.md",
+    "notes/Спеціальні символи директорій.md",
+    "notes/Траблшутінг швидкодії.md",
+    "notes/Утиліти для роботи з користувачами та групами.md",
     "notes/Розширення параметрів у Bash.md",
-    "notes/Bash.md",
-    "notes/методи розробки алгоритмів.md",
-    "notes/як працює ARP?.md",
-    "notes/Фільтрація результатів у SQL.md",
-    "notes/BETWEEN.md",
-    "templates/default-note.md",
-    "notes/навіщо потрібен ARP?.md",
-    "notes/ARP.md",
-    "notes/Скільки потрібно правил для роботи протоколу UDP?.md",
-    "notes/Скільки потрібно правил для роботи протоколу TCP?.md",
-    "notes/Політика за замовчуванням.md",
-    "notes/Обробка ключів командного рядка у скриптах bash.md",
-    "notes/Позиційні параметри у bash.md",
+    "notes/рівні моделі OSI.md",
+    "notes/рівні tcp ip.md",
+    "notes/Резервні копії у MySQL.md",
+    "notes/користувачі та права доступу.md",
+    "notes/Користувачі і привілеї MySQL.md",
     "templates",
     "notes",
     "inbox",

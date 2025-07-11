@@ -2,11 +2,10 @@
 date: 2025-07-04
 title: Рівні моделі  OSI
 description: 
-draft: true
+draft: false
 tags:
   - 🌐network/abstractions
   - 🌐network/architecture
-  - 🌱todo
 aliases:
   - OSI layers
 permalink: osi-layers

@@ -6,6 +6,7 @@ draft: false
 tags:
   - 🦮how-to
   - databases/mysql
+  - man/ss
 aliases: 
 permalink: 
 lang: uk
