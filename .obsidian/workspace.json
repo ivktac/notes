@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aadc82980c4a0ae5",
+        "id": "ae556cb52506341a",
         "type": "tabs",
         "children": [
           {
-            "id": "de9268515cc9f089",
+            "id": "caa7944badf93362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/методи розробки алгоритмів.md",
+                "file": "notes/renice.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "методи розробки алгоритмів"
+              "title": "renice"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/методи розробки алгоритмів.md",
+                "file": "notes/renice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of методи розробки алгоритмів"
+              "title": "Outline of renice"
             }
           }
         ],
@@ -188,10 +188,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de9268515cc9f089",
+  "active": "caa7944badf93362",
   "lastOpenFiles": [
-    "notes/як працює ARP?.md",
+    "notes/nice.md",
+    "notes/renice.md",
+    "notes/ps.md",
+    "notes/Завдання jobs.md",
+    "notes/Команди управління завданнями.md",
+    "notes/Коди статусу HTTP.md",
+    "notes/Розділювач полів Bash.md",
+    "notes/Розширення параметрів у Bash.md",
+    "notes/Bash.md",
     "notes/методи розробки алгоритмів.md",
+    "notes/як працює ARP?.md",
     "notes/Фільтрація результатів у SQL.md",
     "notes/BETWEEN.md",
     "templates/default-note.md",
@@ -207,15 +216,6 @@
     "notes/Первинний ключ.md",
     "notes/Метасимволи регулярних виразів.md",
     "notes/ORDER BY.md",
-    "notes/lan.md",
-    "notes/inode.md",
-    "notes/Command not found.md",
-    "notes/at.md",
-    "notes/Apache HTTP Server.md",
-    "notes/bzip2.md",
-    "notes/CLI.md",
-    "notes/WHERE.md",
-    "notes/HAVING.md",
     "templates",
     "notes",
     "inbox",

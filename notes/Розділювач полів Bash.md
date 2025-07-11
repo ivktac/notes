@@ -7,6 +7,7 @@ tags:
   - programming/bash
 aliases:
   - internal field  separator
+  - IFS
 permalink: bash-internal-field-separator
 lang: uk
 ---
