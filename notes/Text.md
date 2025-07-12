@@ -1,9 +1,11 @@
 ---
-date: "2025-07-12"
-title: "Text"
+date: 2025-07-12
+title: Text
 description: 
 draft: false
-tags: 
+tags:
+  - programming/concepts
+  - os/text-processing
 aliases: 
 permalink: 
 lang: uk
