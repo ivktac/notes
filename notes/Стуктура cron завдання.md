@@ -1,6 +1,6 @@
 ---
 date: 2025-07-07
-title: cron формат розкладу
+title: Стуктура cron завдання
 description: 
 draft: false
 tags:

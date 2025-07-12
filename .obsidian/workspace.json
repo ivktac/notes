@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a53929debef4f12f",
+        "id": "89c9cee168754397",
         "type": "tabs",
         "children": [
           {
-            "id": "aec8acbc787c0905",
+            "id": "565ca0313a23db1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Індекс.md",
-                "mode": "source",
+                "file": "notes/Розширення параметрів у Bash.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Індекс"
+              "title": "Розширення параметрів у Bash"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Індекс.md",
+                "file": "notes/Розширення параметрів у Bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Індекс"
+              "title": "Outline of Розширення параметрів у Bash"
             }
           }
         ],
@@ -188,14 +188,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aec8acbc787c0905",
+  "active": "565ca0313a23db1e",
   "lastOpenFiles": [
+    "notes/як налаштувати репліку сервер у mysql?.md",
+    "notes/Розширення параметрів у Bash.md",
+    "notes/inode.md",
+    "notes/hardlink.md",
+    "notes/що зберігає inode?.md",
+    "notes/користувачі та права доступу.md",
+    "notes/типи файлів у linux.md",
+    "notes/pipes.md",
     "notes/mv.md",
+    "notes/ls.md",
+    "notes/Стуктура cron завдання.md",
+    "notes/файловий дескриптор.md",
+    "notes/стандартні потоки.md",
+    "notes/мережеві протоколи.md",
+    "notes/Apache HTTP Server.md",
+    "notes/Індекс.md",
     "notes/Text.md",
     "notes/Гарячі клавіші у bash.md",
-    "notes/ls.md",
     "notes/cp.md",
-    "notes/Розширення параметрів у Bash.md",
     "notes/Розділювач полів Bash.md",
     "notes/Обробка ключів командного рядка у скриптах bash.md",
     "notes/Коментарі у Bash.md",
@@ -203,19 +216,6 @@
     "notes/шляхи до файлів.md",
     "notes/Команди для роботи з файловою системою.md",
     "notes/реплікація.md",
-    "notes/Процес.md",
-    "notes/Linux.md",
-    "notes/файлова система.md",
-    "index.md",
-    "notes/cd.md",
-    "notes/як перевірити чи працює репліка у MySQL?.md",
-    "notes/як вказати яку базу даних реплікувати у MySQL?.md",
-    "notes/як мігрувати існуючі дані до репліки у MySQL.md",
-    "notes/Типи реплікацій.md",
-    "notes/Асинхрона реплікація.md",
-    "notes/Синхронна реплікація.md",
-    "notes/Semi-synchronous реплікація.md",
-    "notes/Реплікація у MySQL.md",
     "templates",
     "notes",
     "inbox",

@@ -8,6 +8,7 @@ tags:
 aliases:
   - how to configure replica mysql
   - replica mysql
+  - how to setup replica
 permalink: how-to-configure-replica-mysql
 lang: uk
 ---
