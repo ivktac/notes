@@ -1,7 +1,7 @@
 ---
 date: 2025-07-04
 title: Обробка ключів командного рядка у скриптах bash
-draft: 
+draft: false
 tags:
   - programming/bash
 aliases:

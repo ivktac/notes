@@ -2,7 +2,7 @@
 date: 2025-07-04
 title: Розділювач полів Bash
 description: 
-draft: 
+draft: false
 tags:
   - programming/bash
 aliases:

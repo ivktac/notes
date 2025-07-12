@@ -2,7 +2,7 @@
 date: 2025-07-04
 title: Коментарі у Bash
 description: 
-draft: 
+draft: false
 tags:
   - programming/bash
 aliases:
