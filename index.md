@@ -11,7 +11,7 @@
 ## DevOps
 #🌱todo 
 
-- [[Docker]] (синій кит)
+- [[Docker]]
 - [[Ansible]]
 - [[Kubernets]]
 - [[Terraform]]
