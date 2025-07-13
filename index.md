@@ -1,4 +1,4 @@
-> [!info] абоба... shit
+> [!info] абоба...
 
 ## Linux and Network Administration
 
