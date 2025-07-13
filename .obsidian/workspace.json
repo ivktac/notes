@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Стратегії резервного копіювання.md",
+                "file": "notes/Резервні копії у MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Стратегії резервного копіювання"
+              "title": "Outline of Резервні копії у MySQL"
             }
           }
         ],
@@ -309,10 +309,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31fdc76f1611353d",
+  "active": "9bc0e100a918b803",
   "lastOpenFiles": [
-    "notes/Повна резервна копія (Full Backup).md",
     "notes/Стратегії резервного копіювання.md",
+    "notes/Повна резервна копія (Full Backup).md",
     "notes/Для чого потрібні резервні копії?.md",
     "notes/Резервні копії у MySQL.md",
     "notes/Процес Point-in-Time Recovery.md",
