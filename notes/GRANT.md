@@ -19,7 +19,7 @@ GRANT тип_привілею [(перелік стовчиків)] [, тип_п
 
 > [!example] Наприклад
 > ```sql
-GRANT ALL ON world.* TO 'universe'@'localhost' WITH GRANT OPTION;
+> GRANT ALL ON world.* TO 'universe'@'localhost' WITH GRANT OPTION;
 > ```
 
 
