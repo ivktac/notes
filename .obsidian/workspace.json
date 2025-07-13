@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes/Траблшутінг швидкодії.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Траблшутінг швидкодії"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "notes/Траблшутінг швидкодії.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Траблшутінг швидкодії"
             }
           }
         ],
@@ -190,8 +190,8 @@
   },
   "active": "192908572e35ad06",
   "lastOpenFiles": [
-    "notes/як показати тільки каталоги?.md",
     "index.md",
+    "notes/як показати тільки каталоги?.md",
     "notes/MySQL.md",
     "notes/як встановити percona server for mysql?.md",
     "notes/Основи роботи з MySQL.md",
