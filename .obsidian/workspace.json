@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "89c9cee168754397",
+        "id": "5d65cfa704c1462a",
         "type": "tabs",
         "children": [
           {
-            "id": "565ca0313a23db1e",
+            "id": "112e5e63bedca3c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/чому користувач має доступ навіть після відміни привілеїв?.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "чому користувач має доступ навіть після відміни привілеїв?"
-            }
-          },
-          {
-            "id": "d8d8acd30d643750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Привілеї у MySQL.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Привілеї у MySQL"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Привілеї у MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Привілеї у MySQL"
+              "title": "Outline"
             }
           }
         ],
@@ -213,14 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8d8acd30d643750",
+  "active": "112e5e63bedca3c1",
   "lastOpenFiles": [
-    "notes/як переглянути привілеї?.md",
+    "notes/як аналізуються привілеї у MySQL?.md",
     "notes/чому користувач має доступ навіть після відміни привілеїв?.md",
     "notes/Привілеї у MySQL.md",
+    "notes/як переглянути привілеї?.md",
     "notes/REVOKE.md",
     "notes/GRANT.md",
-    "notes/як аналізуються привілеї у MySQL?.md",
     "notes/Об'єктні привілеї.md",
     "notes/Адмністративні привілеї.md",
     "notes/Користувачі і привілеї MySQL.md",

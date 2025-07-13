@@ -5,7 +5,8 @@ description:
 draft: false
 tags:
   - databases/mysql
-aliases: 
+aliases:
+  - чи можна заборонити користувачу доступ у MySQL?
 permalink: 
 lang: uk
 ---
