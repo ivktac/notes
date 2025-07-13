@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Резервні копії у MySQL.md",
-                "mode": "source",
+                "file": "notes/Основи роботи з MySQL.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Резервні копії у MySQL"
+              "title": "Основи роботи з MySQL"
             }
           },
           {
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Резервні копії у MySQL.md",
+                "file": "notes/Основи роботи з MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Резервні копії у MySQL"
+              "title": "Outline of Основи роботи з MySQL"
             }
           }
         ],
@@ -311,27 +311,27 @@
   },
   "active": "9bc0e100a918b803",
   "lastOpenFiles": [
+    "notes/Гарячі бекапи.md",
+    "notes/Теплі бекапи.md",
+    "notes/Холодні бекапи.md",
+    "notes/mysqldump.md",
+    "notes/Логічні бекапи.md",
+    "notes/Резервні копії у MySQL.md",
     "notes/Стратегії резервного копіювання.md",
     "notes/Повна резервна копія (Full Backup).md",
     "notes/Для чого потрібні резервні копії?.md",
-    "notes/Резервні копії у MySQL.md",
     "notes/Процес Point-in-Time Recovery.md",
     "notes/Point-in-Time відновлення.md",
     "notes/mysqlbinlog.md",
     "notes/Бінарні журнали у MySQL.md",
     "notes/Створення резервних копій.md",
-    "notes/mysqldump.md",
     "notes/xtrabackup.md",
     "notes/Percona XtraBackup.md",
     "notes/Інкрементальна резервна копія.md",
     "notes/Фізичні бекапи.md",
     "notes/як налаштувати репліку сервер у mysql?.md",
-    "notes/Логічні бекапи.md",
-    "notes/Гарячі бекапи.md",
-    "notes/Теплі бекапи.md",
     "notes/Диференційна резервна копія.md",
     "notes/Типи резервних копій.md",
-    "notes/Холодні бекапи.md",
     "notes/Модифікація таблиць.md",
     "notes/MySQL.md",
     "notes/реплікація.md",

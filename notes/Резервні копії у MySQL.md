@@ -4,7 +4,6 @@ title: Резервні копії у MySQL
 description: 
 draft: false
 tags:
-  - 🌱todo
   - databases/backups
 aliases:
   - backups mysql
