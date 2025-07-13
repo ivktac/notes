@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f741df793df9e2c9",
+        "id": "0fdff0542dad80e7",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff0ac84ff28cb8f",
+            "id": "192908572e35ad06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/MySQL.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MySQL"
-            }
-          },
-          {
-            "id": "e53bd0efd5244d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/як встановити percona server for mysql?.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "як встановити percona server for mysql?"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/як встановити percona server for mysql?.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of як встановити percona server for mysql?"
+              "title": "Outline of index"
             }
           }
         ],
@@ -213,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e53bd0efd5244d0d",
+  "active": "192908572e35ad06",
   "lastOpenFiles": [
     "notes/MySQL.md",
     "notes/як встановити percona server for mysql?.md",
