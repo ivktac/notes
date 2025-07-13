@@ -16,8 +16,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "5b93e35916095bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/деякі корисні аліаси bash.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "деякі корисні аліаси bash"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/деякі корисні аліаси bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of деякі корисні аліаси bash"
             }
           }
         ],
@@ -173,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97db12df5e9c9f10",
+  "active": "5b93e35916095bd4",
   "lastOpenFiles": [
+    "notes/деякі корисні аліаси bash.md",
     "notes/Bash.md",
     "notes/Як створити systemd юніт?.md",
     "Database",
@@ -201,7 +228,6 @@
     "notes/Процес.md",
     "notes/fork().md",
     "notes/GROUP BY.md",
-    "notes/Розширення параметрів у Bash.md",
     "templates",
     "notes",
     "inbox",
