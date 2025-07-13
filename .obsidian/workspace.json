@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd4badbda2015da",
+        "id": "a96c12d5317a3e6e",
         "type": "tabs",
         "children": [
           {
-            "id": "97db12df5e9c9f10",
+            "id": "9cbe071a5f5655bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Користувачі і привілеї MySQL.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Користувачі і привілеї MySQL"
+              "title": "New tab"
             }
           }
         ]
@@ -161,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Користувачі і привілеї MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Користувачі і привілеї MySQL"
+              "title": "Outline"
             }
           }
         ],
@@ -188,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97db12df5e9c9f10",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
+    "notes/Користувачі і привілеї MySQL.md",
     "index.md",
     "notes/PTS.md",
     "notes/GRANT.md",
@@ -206,7 +192,6 @@
     "notes/REVOKE.md",
     "notes/Об'єктні привілеї.md",
     "notes/Адмністративні привілеї.md",
-    "notes/Користувачі і привілеї MySQL.md",
     "notes/Дії над користувачами у MySQL.md",
     "notes/як ідентифікуються користувачі у mysql?.md",
     "notes/localhost vs 127.0.0.1.md",
