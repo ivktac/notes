@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GRANT.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GRANT"
+              "title": "index"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GRANT.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GRANT"
+              "title": "Outline of index"
             }
           }
         ],
@@ -190,6 +190,8 @@
   },
   "active": "97db12df5e9c9f10",
   "lastOpenFiles": [
+    "notes/PTS.md",
+    "notes/GRANT.md",
     "notes/деякі корисні аліаси bash.md",
     "notes/Bash.md",
     "notes/Як створити systemd юніт?.md",
@@ -201,7 +203,6 @@
     "notes/Привілеї у MySQL.md",
     "notes/як переглянути привілеї?.md",
     "notes/REVOKE.md",
-    "notes/GRANT.md",
     "notes/Об'єктні привілеї.md",
     "notes/Адмністративні привілеї.md",
     "notes/Користувачі і привілеї MySQL.md",
@@ -216,7 +217,6 @@
     "notes/життєвий цикл процесу.md",
     "notes/Процес.md",
     "notes/fork().md",
-    "notes/GROUP BY.md",
     "templates",
     "notes",
     "inbox",
