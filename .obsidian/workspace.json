@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Траблшутінг швидкодії.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Траблшутінг швидкодії"
+              "title": "index"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Траблшутінг швидкодії.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Траблшутінг швидкодії"
+              "title": "Outline of index"
             }
           }
         ],
@@ -190,6 +190,7 @@
   },
   "active": "192908572e35ad06",
   "lastOpenFiles": [
+    "notes/Траблшутінг швидкодії.md",
     "index.md",
     "notes/як показати тільки каталоги?.md",
     "notes/MySQL.md",
@@ -216,7 +217,6 @@
     "notes/localhost vs 127.0.0.1.md",
     "notes/mysql command.md",
     "notes/Apache HTTP Server.md",
-    "notes/cp.md",
     "templates",
     "notes",
     "inbox",
