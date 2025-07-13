@@ -1,6 +1,6 @@
 ---
 date: 2025-07-13
-title: some useful bash aliases
+title: деякі корисні аліаси bash
 description: 
 draft: false
 tags:
