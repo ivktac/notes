@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d65cfa704c1462a",
+        "id": "0fd4badbda2015da",
         "type": "tabs",
         "children": [
           {
-            "id": "112e5e63bedca3c1",
+            "id": "97db12df5e9c9f10",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[draft]",
+                "query": "tag:man/systemd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -173,8 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "112e5e63bedca3c1",
+  "active": "97db12df5e9c9f10",
   "lastOpenFiles": [
+    "notes/Bash.md",
+    "notes/Як створити systemd юніт?.md",
+    "Database",
+    "notes/systemd.md",
+    "notes/systemctl.md",
     "notes/як аналізуються привілеї у MySQL?.md",
     "notes/чому користувач має доступ навіть після відміни привілеїв?.md",
     "notes/Привілеї у MySQL.md",
@@ -190,7 +195,6 @@
     "notes/mysql command.md",
     "notes/Apache HTTP Server.md",
     "notes/cp.md",
-    "notes/Як створити systemd юніт?.md",
     "notes/Чому виникають зомбі процеси?.md",
     "notes/Зомбі процес.md",
     "notes/життєвий цикл процесу.md",
@@ -198,9 +202,6 @@
     "notes/fork().md",
     "notes/GROUP BY.md",
     "notes/Розширення параметрів у Bash.md",
-    "notes/як налаштувати репліку сервер у mysql?.md",
-    "notes/inode.md",
-    "notes/hardlink.md",
     "templates",
     "notes",
     "inbox",
@@ -209,7 +210,6 @@
     "Network/Protocols",
     "Network/firewall",
     "Web/SSL",
-    "Web/HTTP",
-    "Web/Apache"
+    "Web/HTTP"
   ]
 }

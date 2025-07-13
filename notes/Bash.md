@@ -13,7 +13,7 @@ aliases:
 permalink: bash
 lang: uk
 ---
-
+	
 > [!tldr]
 > **Bash** (Bourne Again Shell) — [[shell|командна оболонка]] та [[мова програмування]] для Unix-подібних систем.
 
