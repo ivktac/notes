@@ -10,7 +10,9 @@ aliases:
 permalink: mysql-user-and-permissions
 lang: uk
 ---
-
+- [[як ідентифікуються користувачі у mysql?]]
+- [[Дії над користувачами у MySQL]]
+- [[Привілеї у MySQL]]
 
 ## Корисні джерела
 
