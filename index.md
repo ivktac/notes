@@ -1,5 +1,5 @@
 > [!info] абоба...
-TEST
+
 ## Linux and Network Administration
 
 - [[Linux]]
