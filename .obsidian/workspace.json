@@ -11,10 +11,24 @@
             "id": "9cbe071a5f5655bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/Користувачі і привілеї MySQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Користувачі і привілеї MySQL"
             }
           }
         ]
@@ -147,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "notes/Користувачі і привілеї MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Користувачі і привілеї MySQL"
             }
           }
         ],
@@ -173,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "9cbe071a5f5655bc",
   "lastOpenFiles": [
     "notes/Користувачі і привілеї MySQL.md",
     "index.md",
