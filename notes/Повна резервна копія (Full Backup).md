@@ -7,6 +7,7 @@ tags:
   - databases/backups
 aliases:
   - full backup
+  - повний бекап
 permalink: 
 lang: uk
 ---
