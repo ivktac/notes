@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "192908572e35ad06",
+            "id": "76f0011ffefabfac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Модифікація таблиць.md",
-                "mode": "preview",
+                "file": "notes/Диференційна резервна копія.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,16 +28,88 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Модифікація таблиць"
+              "title": "Диференційна резервна копія"
             }
           },
           {
-            "id": "90a5365fc5a009a3",
+            "id": "62dab1934d0353d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/mysql command.md",
+                "file": "notes/Теплі бекапи.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Теплі бекапи"
+            }
+          },
+          {
+            "id": "f320ad05531ca436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Гарячі бекапи.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Гарячі бекапи"
+            }
+          },
+          {
+            "id": "6fa9207bb6ef6859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Повна резервна копія (Full Backup).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Повна резервна копія (Full Backup)"
+            }
+          },
+          {
+            "id": "9bc0e100a918b803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Логічні бекапи.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mysql command"
+              "title": "Логічні бекапи"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/mysql command.md",
+                "file": "notes/Логічні бекапи.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mysql command"
+              "title": "Outline of Логічні бекапи"
             }
           }
         ],
@@ -213,35 +285,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90a5365fc5a009a3",
+  "active": "9bc0e100a918b803",
   "lastOpenFiles": [
-    "notes/mysqld.md",
+    "notes/Фізичні бекапи.md",
+    "notes/Повна резервна копія (Full Backup).md",
+    "notes/Гарячі бекапи.md",
+    "notes/Теплі бекапи.md",
+    "notes/Диференційна резервна копія.md",
+    "notes/Інкрементальна резервна копія.md",
+    "notes/Типи резервних копій.md",
+    "notes/Логічні бекапи.md",
+    "notes/Холодні бекапи.md",
     "notes/Модифікація таблиць.md",
+    "notes/Резервні копії у MySQL.md",
+    "notes/Для чого потрібні резервні копії?.md",
+    "notes/MySQL.md",
+    "notes/реплікація.md",
+    "notes/Реплікація у MySQL.md",
+    "notes/mysql command.md",
+    "notes/mysqld.md",
     "notes/SQL.md",
     "notes/Додавання даних у SQL.md",
     "notes/Оновлення даних у SQL.md",
     "notes/Рядкові типи данних у MySQL.md",
     "notes/Числові типи даних у MySQL.md",
     "notes/Основи роботи з MySQL.md",
-    "notes/MySQL.md",
     "notes/Фільтрація результатів у SQL.md",
     "notes/Перевірка NULL.md",
     "notes/WHERE.md",
-    "notes/LIKE.md",
-    "notes/IN.md",
-    "notes/SELECT.md",
-    "index.md",
-    "notes/Траблшутінг швидкодії.md",
-    "notes/як показати тільки каталоги?.md",
-    "notes/як встановити percona server for mysql?.md",
-    "notes/Користувачі і привілеї MySQL.md",
-    "notes/PTS.md",
-    "notes/GRANT.md",
-    "notes/деякі корисні аліаси bash.md",
-    "notes/Bash.md",
-    "notes/Як створити systemd юніт?.md",
     "Database",
-    "notes/systemd.md",
     "templates",
     "notes",
     "inbox",
