@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fdff0542dad80e7",
+        "id": "0cf0d211391dd252",
         "type": "tabs",
         "children": [
           {
-            "id": "76f0011ffefabfac",
+            "id": "d0831ec6246d76a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Диференційна резервна копія.md",
+                "file": "30 Database/SQL/docs/BETWEEN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Диференційна резервна копія"
-            }
-          },
-          {
-            "id": "62dab1934d0353d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Теплі бекапи.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Теплі бекапи"
-            }
-          },
-          {
-            "id": "f320ad05531ca436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Гарячі бекапи.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Гарячі бекапи"
-            }
-          },
-          {
-            "id": "6fa9207bb6ef6859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Повна резервна копія (Full Backup).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Повна резервна копія (Full Backup)"
-            }
-          },
-          {
-            "id": "9bc0e100a918b803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Основи роботи з MySQL.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Основи роботи з MySQL"
-            }
-          },
-          {
-            "id": "31fdc76f1611353d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Стратегії резервного копіювання.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Стратегії резервного копіювання"
+              "title": "BETWEEN"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Основи роботи з MySQL.md",
+                "file": "30 Database/SQL/docs/BETWEEN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Основи роботи з MySQL"
+              "title": "Outline of BETWEEN"
             }
           }
         ],
@@ -309,43 +188,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bc0e100a918b803",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
-    "notes/Гарячі бекапи.md",
-    "notes/Теплі бекапи.md",
-    "notes/Холодні бекапи.md",
-    "notes/mysqldump.md",
-    "notes/Логічні бекапи.md",
-    "notes/Резервні копії у MySQL.md",
-    "notes/Стратегії резервного копіювання.md",
-    "notes/Повна резервна копія (Full Backup).md",
-    "notes/Для чого потрібні резервні копії?.md",
-    "notes/Процес Point-in-Time Recovery.md",
-    "notes/Point-in-Time відновлення.md",
-    "notes/mysqlbinlog.md",
-    "notes/Бінарні журнали у MySQL.md",
-    "notes/Створення резервних копій.md",
-    "notes/xtrabackup.md",
-    "notes/Percona XtraBackup.md",
-    "notes/Інкрементальна резервна копія.md",
-    "notes/Фізичні бекапи.md",
-    "notes/як налаштувати репліку сервер у mysql?.md",
-    "notes/Диференційна резервна копія.md",
-    "notes/Типи резервних копій.md",
-    "notes/Модифікація таблиць.md",
-    "notes/MySQL.md",
-    "notes/реплікація.md",
-    "notes/Реплікація у MySQL.md",
-    "notes/mysql command.md",
-    "Database",
-    "templates",
-    "notes",
-    "inbox",
-    "Linux/Automating",
-    "Programming/Scripting",
-    "Network/Protocols",
-    "Network/firewall",
-    "Web/SSL",
-    "Web/HTTP"
+    "30 Database/MySQL/users",
+    "30 Database/MySQL.md",
+    "30 Database/SQL/docs",
+    "how-to/як мігрувати існуючі дані до репліки у MySQL.md",
+    "30 Database/SQL/Basics",
+    "how-to/як переглянути привілеї у MySQL?.md",
+    "10 Linux/користувачі та права доступу.md",
+    "20 Network/Скільки потрібно правил для роботи протоколу UDP?.md",
+    "00 OS/hardware",
+    "00 OS/software",
+    "00 OS/unix",
+    "20 Network/Protocols",
+    "10 Linux/io",
+    "10 Linux/cheats",
+    "30 Database/Concepts/СКБД.md",
+    "10 Linux/Як створити systemd юніт?.md",
+    "10 Linux/Обробка тексту.md",
+    "10 Linux/regex/Квантифікатори регулярних виразів.md",
+    "50 Troubleshooting",
+    "40 Web/Apache/Apache HTTP Server.md",
+    "10 Linux/regex",
+    "99 man/unzip.md",
+    "how-to/how to convert delimited string in to newline in bash.md",
+    "how-to/how to split string by delimiter in bash.md",
+    "10 Linux/systemd/systemd.service.md",
+    "10 Linux/systemd.md",
+    "30 Database/SQL/docs/LIKE.md",
+    "30 Database/MySQL/Основи роботи з MySQL.md",
+    "30 Database/Backups/Гарячі бекапи.md",
+    "30 Database/Backups/Теплі бекапи.md",
+    "30 Database/Backups/Холодні бекапи.md",
+    "99 man/mysqldump.md",
+    "30 Database/Backups/Логічні бекапи.md",
+    "30 Database/MySQL/Резервні копії у MySQL.md",
+    "30 Database/Backups/Стратегії резервного копіювання.md",
+    "30 Database/Backups/Повна резервна копія (Full Backup).md"
   ]
 }

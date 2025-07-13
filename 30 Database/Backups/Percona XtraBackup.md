@@ -12,7 +12,7 @@ lang: uk
 ---
 
 > [!tldr]
-> **Percona XtraBackup** — утиліта для [[гарячі бекапи|гарячих]] резервних копій [[InnoDB]]/[[XtraDB]].
+> **Percona XtraBackup** — утиліта для [[Гарячі бекапи|гарячих]] резервних копій [[InnoDB]]/[[XtraDB]].
 
  
 > [!info]
