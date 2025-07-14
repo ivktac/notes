@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0cf0d211391dd252",
+        "id": "e293bc9feefd6b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "d0831ec6246d76a3",
+            "id": "417718571a1de617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Database/SQL/docs/BETWEEN.md",
-                "mode": "source",
+                "file": "how-to/how to convert delimited string in to newline in bash.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BETWEEN"
+              "title": "how to convert delimited string in to newline in bash"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 Database/SQL/docs/BETWEEN.md",
+                "file": "how-to/how to convert delimited string in to newline in bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BETWEEN"
+              "title": "Outline of how to convert delimited string in to newline in bash"
             }
           }
         ],
@@ -188,43 +188,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "417718571a1de617",
   "lastOpenFiles": [
+    "30 Database/Queries/Агрегатні функції у SQL.md",
+    "30 Database/SQL.md",
+    "10 Linux/Bash.md",
+    "60 Programming/SQL/BETWEEN.md",
+    "10 Linux/Регулярні вирази.md",
+    "40 Web/Веб-сервер.md",
+    "40 Web/Принцип роботи веб-серверу.md",
+    "60 Programming/Concepts/операнд.md",
+    "60 Programming/Algorithms",
+    "60 Programming/Concepts/null.md",
+    "60 Programming/Concepts",
+    "60 Programming",
     "30 Database/MySQL/users",
     "30 Database/MySQL.md",
-    "30 Database/SQL/docs",
+    "60 Programming/SQL/docs",
     "how-to/як мігрувати існуючі дані до репліки у MySQL.md",
-    "30 Database/SQL/Basics",
+    "30 Database/Queries",
     "how-to/як переглянути привілеї у MySQL?.md",
-    "10 Linux/користувачі та права доступу.md",
+    "10 Linux/PAM/користувачі та права доступу.md",
     "20 Network/Скільки потрібно правил для роботи протоколу UDP?.md",
     "00 OS/hardware",
     "00 OS/software",
     "00 OS/unix",
     "20 Network/Protocols",
-    "10 Linux/io",
-    "10 Linux/cheats",
     "30 Database/Concepts/СКБД.md",
-    "10 Linux/Як створити systemd юніт?.md",
+    "10 Linux/systemd/Як створити systemd юніт?.md",
     "10 Linux/Обробка тексту.md",
     "10 Linux/regex/Квантифікатори регулярних виразів.md",
-    "50 Troubleshooting",
     "40 Web/Apache/Apache HTTP Server.md",
-    "10 Linux/regex",
     "99 man/unzip.md",
     "how-to/how to convert delimited string in to newline in bash.md",
     "how-to/how to split string by delimiter in bash.md",
     "10 Linux/systemd/systemd.service.md",
     "10 Linux/systemd.md",
-    "30 Database/SQL/docs/LIKE.md",
-    "30 Database/MySQL/Основи роботи з MySQL.md",
-    "30 Database/Backups/Гарячі бекапи.md",
-    "30 Database/Backups/Теплі бекапи.md",
-    "30 Database/Backups/Холодні бекапи.md",
-    "99 man/mysqldump.md",
-    "30 Database/Backups/Логічні бекапи.md",
-    "30 Database/MySQL/Резервні копії у MySQL.md",
-    "30 Database/Backups/Стратегії резервного копіювання.md",
-    "30 Database/Backups/Повна резервна копія (Full Backup).md"
+    "60 Programming/SQL/LIKE.md",
+    "30 Database/MySQL/Основи роботи з MySQL.md"
   ]
 }
