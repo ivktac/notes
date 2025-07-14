@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible.md",
+                "file": "популярні архіви.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ansible"
+              "title": "популярні архіви"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#devops",
+                "query": "[\"draft\":true]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,7 +143,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,8 +239,13 @@
   },
   "active": "bfc69a7bb52b70e3",
   "lastOpenFiles": [
-    "ansible playbook.md",
+    "Реплікація у MySQL.md",
+    "популярні архіви.md",
+    "мережеве обладнання.md",
+    "користувачі та права доступу.md",
+    "мережа.md",
     "Ansible.md",
+    "ansible playbook.md",
     "Ansible modules.md",
     "Ansible templates.md",
     "Ansible vault.md",
@@ -259,11 +265,6 @@
     "symlink.md",
     "shell.md",
     "osi model.md",
-    "lan.md",
-    "pipes.md",
-    "history commands.md",
-    "Індекс.md",
-    "Зовнішній ключ.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",

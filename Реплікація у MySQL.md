@@ -2,7 +2,7 @@
 date: 2025-07-04
 title: Реплікація MySQL
 description: 
-draft: true
+draft: false
 tags:
   - 🌱todo
   - databases/mysql
