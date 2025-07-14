@@ -9,7 +9,7 @@ tags:
   - 🌐network/abstractions
 aliases:
   - TCP/IP
-permalink: tcp-ip
+permalink: 
 lang: uk
 ---
 

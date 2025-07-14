@@ -4,7 +4,7 @@ title: gzip
 description: 
 draft: false
 tags:
-  - man/gzip
+  - man
 aliases: 
 permalink: man-gzip
 lang: uk

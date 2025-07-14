@@ -4,7 +4,7 @@ title: at
 description: 
 draft: false
 tags:
-  - man/at
+  - man
 aliases:
   - man at
 permalink: man-at

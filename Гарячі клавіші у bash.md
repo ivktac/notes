@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - shortcuts
-  - man/bash
+  - man
   - os/cli
 aliases: 
 permalink: 

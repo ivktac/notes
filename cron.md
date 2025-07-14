@@ -4,7 +4,7 @@ title: cron
 description: cron — планувальник завдань
 draft: false
 tags:
-  - man/cron
+  - man
   - os/scheduling
 aliases:
   - планувальник задач

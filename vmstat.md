@@ -4,7 +4,7 @@ title: vmstat
 description: 
 draft: false
 tags:
-  - man/vmstat
+  - man
   - os/monitoring
   - troubleshooting/utils
 aliases: 

@@ -4,7 +4,7 @@ title: tar
 description: 
 draft: false
 tags:
-  - man/tar
+  - man
 aliases:
   - тарчик
 permalink: man-tar

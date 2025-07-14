@@ -1,9 +1,11 @@
 ---
-date: "2025-07-13"
-title: "mysqlbinlog"
+date: 2025-07-13
+title: mysqlbinlog
 description: 
 draft: false
-tags: 
+tags:
+  - databases/mysql
+  - man
 aliases: 
 permalink: 
 lang: uk

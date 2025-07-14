@@ -4,7 +4,7 @@ title: Як створити systemd.timer юніт для автоматичн�
 description: 
 draft: false
 tags:
-  - man/systemd/timer
+  - man
   - os/automation
   - docker
 aliases: 

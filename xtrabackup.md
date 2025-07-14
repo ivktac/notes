@@ -6,7 +6,7 @@ draft: false
 tags:
   - fixme
   - 🌱todo
-  - man/xtrabackup
+  - man
 aliases: 
 permalink: 
 lang: uk

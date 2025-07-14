@@ -1,10 +1,10 @@
 ---
 date: 2025-07-11
-title: mysqld
+title: mysql command
 description: 
 draft: false
 tags:
-  - man/mysql
+  - man
   - databases/mysql
 aliases: 
 permalink: 

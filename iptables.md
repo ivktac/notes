@@ -4,7 +4,7 @@ title: iptables
 description: 
 draft: false
 tags:
-  - man/iptables
+  - man
   - os/network
 permalink: man-iptables
 lang: uk

@@ -4,7 +4,7 @@ title: pstree
 description: 
 draft: false
 tags:
-  - man/pstree
+  - man
   - os/🐧linux
   - os/process
 aliases: 

@@ -7,7 +7,7 @@ tags:
   - scripting
 aliases:
   - шебанг
-permalink: shebang
+permalink: 
 lang: uk
 ---
 

@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - 🦮how-to
-  - man/systemd
+  - man
 aliases:
   - how to create systemd unit
 permalink: how-to-create-systemd-unit

@@ -4,7 +4,7 @@ title: mv
 description: 
 draft: false
 tags:
-  - man/mv
+  - man
   - os/🐧linux
   - os/cli
   - os/filesystem

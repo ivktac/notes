@@ -8,7 +8,7 @@ tags:
   - os/🐧linux
 aliases:
   - символьне посилання
-permalink: symlink
+permalink: 
 lang: uk
 ---
 

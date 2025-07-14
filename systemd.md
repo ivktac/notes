@@ -4,11 +4,11 @@ title: systemd
 description: 
 draft: false
 tags:
-  - man/systemd
+  - man
   - os/process
   - os/initialization
-aliases:
   - systemd
+aliases:
   - сістемд
 permalink: man-systemd
 lang: uk

@@ -6,10 +6,10 @@ draft:
 tags:
   - os/logging
   - os/cli
-  - man/history
+  - man
 aliases:
   - історія команд
-permalink: history-commands
+permalink: 
 lang: uk
 ---
 

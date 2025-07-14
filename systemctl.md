@@ -4,7 +4,7 @@ title: systemctl
 description: 
 draft: false
 tags:
-  - man/systemctl
+  - man
   - os/process
   - os/initialization
 aliases:

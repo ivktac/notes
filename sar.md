@@ -4,7 +4,7 @@ title: sar
 description: 
 draft: false
 tags:
-  - man/sar
+  - man
   - troubleshooting/utils
   - os/monitoring
 aliases: 

@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - os/process
-  - man/kill
+  - man
 aliases: 
 permalink: 
 lang: uk

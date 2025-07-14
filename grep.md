@@ -3,7 +3,7 @@ date: 2025-07-05
 title: grep
 description: 
 tags:
-  - man/grep
+  - man
   - os/text-processing
 permalink: man-grep
 lang: uk

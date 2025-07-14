@@ -4,7 +4,7 @@ title: iftop
 description: 
 draft: 
 tags:
-  - man/iftop
+  - man
   - os/monitoring
   - os/network
 aliases: 

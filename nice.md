@@ -4,7 +4,7 @@ title: nice
 description: 
 draft: false
 tags:
-  - man/nice
+  - man
 aliases: 
 permalink: 
 lang: uk

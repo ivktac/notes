@@ -2,11 +2,11 @@
 date: 2025-07-03
 title: Що таке null?
 description: 
-draft: 
-tags: 
+draft: false
+tags:
+  - programming
 aliases:
   - що таке null
-  - "null"
 permalink: what-is-null
 lang: uk
 ---

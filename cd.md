@@ -7,7 +7,7 @@ tags:
   - os/cli
   - os/🐧linux
   - os/filesystem
-  - man/cd
+  - man
 aliases: 
 permalink: 
 lang: uk

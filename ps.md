@@ -6,7 +6,7 @@ draft: false
 tags:
   - os/process
   - os/cli
-  - man/ps
+  - man
 aliases: 
 permalink: 
 lang: uk

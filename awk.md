@@ -4,7 +4,7 @@ title: awk
 description: 
 draft: 
 tags:
-  - man/awk
+  - man
   - programming/awk
   - os/text-processing
 aliases: 

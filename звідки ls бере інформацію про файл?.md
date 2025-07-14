@@ -4,7 +4,7 @@ title: Звідки ls бере інформацію про файл?
 description: 
 draft: 
 tags:
-  - man/ls
+  - man
   - os/filesystem
 aliases: 
 permalink: how-command-ls-works

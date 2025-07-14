@@ -10,7 +10,7 @@ tags:
 aliases:
   - OSI
   - модель OSI
-permalink: osi-model
+permalink: 
 lang: uk
 ---
 

@@ -4,7 +4,7 @@ title: top
 description: 
 draft: 
 tags:
-  - man/top
+  - man
   - os/monitoring
   - troubleshooting/utils
 aliases: 

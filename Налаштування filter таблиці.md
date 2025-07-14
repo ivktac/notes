@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - configuration
-  - man/iptables
+  - man
   - 🌐network/firewall
 aliases:
   - config filter table iptables

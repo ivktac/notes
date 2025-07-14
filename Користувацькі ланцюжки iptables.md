@@ -4,7 +4,7 @@ title: Користувацькі ланцюжки iptables
 description: 
 draft: false
 tags:
-  - man/iptables
+  - man
   - 🌐network/firewall
 aliases:
   - user chains iptables

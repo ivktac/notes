@@ -4,7 +4,7 @@ title: mysqld
 description: 
 draft: false
 tags:
-  - man/mysqld
+  - man
   - 🌱todo
 aliases: 
 permalink: 

@@ -1,6 +1,6 @@
 ---
 date: 2025-07-05
-title: SQL
+title: SELECT
 description: 
 draft: false
 tags:

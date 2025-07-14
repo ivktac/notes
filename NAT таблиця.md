@@ -4,7 +4,7 @@ title: NAT таблиця
 description: 
 draft: false
 tags:
-  - man/iptables
+  - man
   - 🌐network/nat
 aliases:
   - Network Address Translation

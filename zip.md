@@ -4,7 +4,7 @@ title: zip
 description: 
 draft: false
 tags:
-  - man/zip
+  - man
 aliases:
   - zip man
 permalink: man-zip

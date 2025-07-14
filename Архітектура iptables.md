@@ -4,7 +4,7 @@ title: Архітектура iptables
 description: 
 draft: false
 tags:
-  - man/iptables
+  - man
   - 🌐network/architecture
 aliases:
   - iptables architecture

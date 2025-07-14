@@ -4,7 +4,8 @@ title: systemd.service
 description: 
 draft: false
 tags:
-  - man/systemd/service
+  - man
+  - systemd
 aliases:
   - systemd services
 permalink: man-systemd-service

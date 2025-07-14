@@ -8,7 +8,6 @@ tags:
   - os/🐧linux
 aliases:
   - pipe
-  - pipes
 permalink: linux-pipes
 lang: uk
 ---

@@ -4,7 +4,7 @@ title: Типи юнітів у systemd
 description: 
 draft: false
 tags:
-  - man/systemd
+  - man
 aliases:
   - systemd units
 permalink: systemd-units

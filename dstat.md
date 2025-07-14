@@ -4,7 +4,7 @@ title: dstat
 description: 
 draft: false
 tags:
-  - man/dstat
+  - man
   - os/monitoring
   - troubleshooting/utils
   - 🌱todo

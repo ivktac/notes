@@ -4,7 +4,7 @@ title: ls
 description: 
 draft: false
 tags:
-  - man/ls
+  - man
   - api/linux
   - os/cli
   - os/filesystem

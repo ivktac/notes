@@ -7,7 +7,7 @@ tags:
   - os/cli
 aliases:
   - оболонка
-permalink: shell
+permalink: 
 lang: uk
 ---
 

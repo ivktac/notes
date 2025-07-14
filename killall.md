@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - os/process
-  - man/kilall
+  - man
 aliases: 
 permalink: 
 lang: uk

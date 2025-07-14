@@ -4,10 +4,9 @@ title: screen
 description: 
 draft: false
 tags:
-  - man/screen
+  - man
   - os/multiplexer
 aliases:
-  - screen
   - скрін
 permalink: man-screen
 lang: uk

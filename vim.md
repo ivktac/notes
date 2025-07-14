@@ -4,7 +4,7 @@ title: vim
 description: 
 draft: false
 tags:
-  - man/vim
+  - man
   - os/text-processing
 aliases:
   - Vi IMproved

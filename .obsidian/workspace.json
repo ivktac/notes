@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6aa218cf550e0f",
+        "id": "d9f3dd3ccb996f7b",
         "type": "tabs",
         "children": [
           {
-            "id": "904f68ff250a8214",
+            "id": "ff0b2c1d1202e47a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ls.md",
-                "mode": "preview",
+                "file": "Гарячі клавіші у bash.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ls"
+              "title": "Гарячі клавіші у bash"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:man/systemd",
+                "query": "tag:#shortcuts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,17 +160,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ls.md",
+                "file": "Гарячі клавіші у bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ls"
+              "title": "Outline of Гарячі клавіші у bash"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,34 +187,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "904f68ff250a8214",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
-    "hardlink.md",
-    "HAVING.md",
+    "mysqlbinlog.md",
+    "null.md",
+    "shebang.md",
+    "firewall.md",
+    "tcp ip.md",
+    "symlink.md",
+    "shell.md",
+    "osi model.md",
+    "lan.md",
+    "pipes.md",
     "history commands.md",
-    "bunzip2.md",
-    "builtin set bash.md",
+    "Індекс.md",
+    "Зовнішній ключ.md",
+    "wan.md",
+    "WHERE.md",
+    "tar.md",
+    "systemd.timer.md",
+    "systemd.target.md",
+    "systemd.service.md",
+    "systemd.md",
+    "sed.md",
     "SELECT.md",
-    "Конвеєри (pipes).md",
-    "Метадані файлу (inode).md",
-    "Ansible.md",
-    "Ansible Tasks.md",
-    "ansible playbook.md",
-    "Ansible modules.md",
-    "Ansible inventory.md",
-    "як працює ansible?.md",
-    "для чого потрібен ansible?.md",
-    "index.md",
-    "iptraf.md",
-    "dstat.md",
-    "sar.md",
-    "Моніторинг мережі.md",
-    "Метрики насичення мережі.md",
-    "Метрики мережі.md",
-    "OOM-killer.md",
-    "Моніторинг пам'яті.md",
-    "Моніторинг дискової підсистеми.md",
-    "vmstat.md",
+    "SQL.md",
+    "screen.md",
+    "mysqld.md",
+    "mysql command.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",

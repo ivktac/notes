@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - databases/backups
-  - man/mysql
+  - man
 aliases: 
 permalink: 
 lang: uk

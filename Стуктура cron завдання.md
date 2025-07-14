@@ -5,8 +5,8 @@ description:
 draft: false
 tags:
   - os/scheduling
-  - man/cron
-  - man/crontab
+  - man
+  - man
 aliases: 
 permalink: cron-format
 lang: uk

@@ -4,7 +4,7 @@ title: unzip
 description: 
 draft: false
 tags:
-  - man/unzip
+  - man
 aliases: 
 permalink: man-unzip
 lang: uk

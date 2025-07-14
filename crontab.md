@@ -4,7 +4,7 @@ title: crontab
 description: 
 draft: false
 tags:
-  - man/crontab
+  - man
 aliases: 
 permalink: man-crontab
 lang: uk

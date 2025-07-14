@@ -2,9 +2,9 @@
 date: 2025-07-05
 title: sed
 description: 
-draft: 
+draft: false
 tags:
-  - man/sed
+  - man
   - os/text-processing
 aliases:
   - stream editor

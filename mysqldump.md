@@ -4,7 +4,7 @@ title: mysqldump
 description: 
 draft: false
 tags:
-  - man/mysqldump
+  - man
   - databases/mysql
   - databases/backups
 aliases: 

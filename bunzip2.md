@@ -4,7 +4,7 @@ title: bunzip2
 description: 
 draft: false
 tags:
-  - man/bunzip2
+  - man
 aliases: 
 permalink: man-bunzip2
 lang: uk

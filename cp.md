@@ -4,7 +4,7 @@ title: cp
 description: 
 draft: false
 tags:
-  - man/cp
+  - man
   - os/🐧linux
   - os/filesystem
 aliases:

@@ -7,7 +7,7 @@ tags:
   - 🌐network
 aliases:
   - локальна мережа
-permalink: lan
+permalink: 
 lang: uk
 ---
 

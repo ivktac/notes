@@ -4,7 +4,7 @@ title: Метрики у команді top
 description: 
 draft: false
 tags:
-  - man/top
+  - man
   - troubleshooting/metrics
 aliases: 
 permalink: 

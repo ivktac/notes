@@ -7,7 +7,7 @@ tags:
   - 🌐network/architecture
 aliases:
   - глобальна мережа
-permalink: wan
+permalink: 
 lang: uk
 ---
 

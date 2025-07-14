@@ -9,7 +9,7 @@ tags:
 aliases:
   - фаєрвол
   - фільтрація
-permalink: firewall
+permalink: 
 lang: uk
 ---
 

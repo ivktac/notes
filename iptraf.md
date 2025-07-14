@@ -4,7 +4,7 @@ title: iptraf
 description: 
 draft: false
 tags:
-  - man/iptraf
+  - man
   - 🌱todo
 aliases: 
 permalink: 

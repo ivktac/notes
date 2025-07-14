@@ -4,7 +4,7 @@ title: gunzip
 description: 
 draft: false
 tags:
-  - man/gunzip
+  - man
 aliases: 
 permalink: man-gunzip
 lang: uk

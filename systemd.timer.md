@@ -4,7 +4,8 @@ title: systemd.timer
 description: 
 draft: false
 tags:
-  - man/systemd/timer
+  - man
+  - systemd
 aliases:
   - systemd timers
 permalink: systemd-timer

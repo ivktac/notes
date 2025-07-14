@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - os/multiplexer
-  - man/tmux
+  - man
   - os/🐧linux
 aliases: 
 permalink: man-tmux

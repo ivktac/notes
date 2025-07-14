@@ -3,7 +3,7 @@ date: 2025-07-03
 title: Що означають колонки у виводі  `ls -l`?
 description: 
 tags:
-  - man/ls
+  - man
   - os/filesystem
 draft: 
 aliases:

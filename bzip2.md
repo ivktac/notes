@@ -4,7 +4,7 @@ title: bzip2
 description: 
 draft: false
 tags:
-  - man/bzip2
+  - man
 aliases: 
 permalink: man-bzip2
 lang: uk

@@ -4,7 +4,8 @@ title: systemd.target
 description: 
 draft: false
 tags:
-  - man/systemd/target
+  - man
+  - systemd
 aliases:
   - systemd targets
   - таргети сістемд

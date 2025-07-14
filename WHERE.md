@@ -5,8 +5,7 @@ description:
 draft: 
 tags:
   - programming/sql
-aliases:
-  - WHERE
+aliases: []
 permalink: sql-where
 lang: uk
 ---
