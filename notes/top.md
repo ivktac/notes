@@ -6,6 +6,7 @@ draft:
 tags:
   - man/top
   - os/monitoring
+  - troubleshooting/utils
 aliases: 
 permalink: man-top
 lang: uk

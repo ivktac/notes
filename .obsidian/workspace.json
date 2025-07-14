@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6922c28e839d3c61",
+        "id": "328553f560aa3252",
         "type": "tabs",
         "children": [
           {
-            "id": "e998c51192e51d04",
+            "id": "f36edd92e4ad5900",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/NAT таблиця.md",
+                "file": "notes/Моніторинг дискової підсистеми.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NAT таблиця"
+              "title": "Моніторинг дискової підсистеми"
+            }
+          },
+          {
+            "id": "3d0fddcca1ff1c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/iptraf.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "iptraf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/NAT таблиця.md",
+                "file": "notes/iptraf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NAT таблиця"
+              "title": "Backlinks for iptraf"
             }
           },
           {
@@ -133,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/NAT таблиця.md",
+                "file": "notes/iptraf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NAT таблиця"
+              "title": "Outgoing links from iptraf"
             }
           },
           {
@@ -162,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/NAT таблиця.md",
+                "file": "notes/iptraf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NAT таблиця"
+              "title": "Outline of iptraf"
             }
           }
         ],
@@ -189,8 +214,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e998c51192e51d04",
+  "active": "3d0fddcca1ff1c17",
   "lastOpenFiles": [
+    "notes/dstat.md",
+    "notes/iptraf.md",
+    "notes/sar.md",
+    "notes/Моніторинг мережі.md",
+    "notes/Метрики насичення мережі.md",
+    "notes/Метрики мережі.md",
+    "notes/OOM-killer.md",
+    "notes/Моніторинг пам'яті.md",
+    "notes/Моніторинг дискової підсистеми.md",
+    "notes/vmstat.md",
+    "notes/top.md",
+    "notes/Моніторингові утиліти.md",
+    "notes/Траблшутінг швидкодії.md",
+    "notes/NAT таблиця.md",
     "notes/Apache HTTP Server.md",
     "notes/ARP.md",
     "notes/awk.md",
@@ -203,20 +242,6 @@
     "notes/Як створити systemd юніт?.md",
     "notes/як працюють віртуальні хости у Apache?.md",
     "notes/Стратегії резервного копіювання.md",
-    "notes/Диференційна резервна копія.md",
-    "notes/WHERE.md",
-    "notes/SELECT.md",
-    "notes/screen.md",
-    "notes/gzip.md",
-    "notes/як отримати метадані файлу?.md",
-    "notes/Моніторинг використання часу процесором.md",
-    "notes/Основні ресурси системи.md",
-    "notes/мережа.md",
-    "notes/файлова система.md",
-    "notes/Траблшутінг швидкодії.md",
-    "notes/Моніторинг пам'яті.md",
-    "notes/Метрики пам'яті.md",
-    "notes/Метрики swap.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
