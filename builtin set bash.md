@@ -1,13 +1,12 @@
 ---
 date: 2025-07-05
-title: set
+title: builtin set bash
 description: 
 draft: 
 tags:
   - programming/bash
-aliases:
-  - set
-permalink: builtin-set-bash
+aliases: 
+permalink: 
 lang: uk
 ---
 

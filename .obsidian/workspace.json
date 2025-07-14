@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конвеєри (pipes).md",
+                "file": "builtin set bash.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Конвеєри (pipes)"
+              "title": "builtin set bash"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конвеєри (pipes).md",
+                "file": "builtin set bash.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Конвеєри (pipes)"
+              "title": "Outline of builtin set bash"
             }
           }
         ],
@@ -189,6 +189,8 @@
   },
   "active": "904f68ff250a8214",
   "lastOpenFiles": [
+    "SELECT.md",
+    "Конвеєри (pipes).md",
     "Метадані файлу (inode).md",
     "Ansible.md",
     "Ansible Tasks.md",
@@ -213,8 +215,6 @@
     "Траблшутінг швидкодії.md",
     "NAT таблиця.md",
     "Apache HTTP Server.md",
-    "ARP.md",
-    "awk.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
