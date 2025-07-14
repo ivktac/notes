@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes/ARP.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ARP"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "notes/ARP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of ARP"
             }
           }
         ],
@@ -190,6 +190,10 @@
   },
   "active": "e998c51192e51d04",
   "lastOpenFiles": [
+    "notes/Apache HTTP Server.md",
+    "notes/HTTP.md",
+    "notes/Журналювання у Apache.md",
+    "index.md",
     "notes/Як створити systemd юніт?.md",
     "notes/як працюють віртуальні хости у Apache?.md",
     "notes/Стратегії резервного копіювання.md",
@@ -200,8 +204,6 @@
     "notes/gzip.md",
     "notes/at.md",
     "notes/ARP.md",
-    "notes/Apache HTTP Server.md",
-    "index.md",
     "notes/як отримати метадані файлу?.md",
     "notes/Моніторинг використання часу процесором.md",
     "notes/Основні ресурси системи.md",
@@ -214,8 +216,6 @@
     "notes/Моніторинг процесора.md",
     "notes/top.md",
     "notes/Метрики мережі.md",
-    "notes/Load average.md",
-    "notes/Метрики у команді top.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
