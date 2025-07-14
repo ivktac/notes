@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "passwd.md",
+                "file": "Делагування повноважень.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "passwd"
+              "title": "Делагування повноважень"
             }
           },
           {
@@ -287,12 +287,12 @@
   },
   "active": "efddc6dfe2cedb94",
   "lastOpenFiles": [
+    "користувачі та права доступу.md",
+    "Атрибути файлів.md",
+    "useradd.md",
     "usermod.md",
     "passwd.md",
-    "useradd.md",
     "userdel.md",
-    "Атрибути файлів.md",
-    "користувачі та права доступу.md",
     "Делагування повноважень.md",
     "Права доступу.md",
     "спеціальні права.md",
