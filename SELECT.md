@@ -5,9 +5,8 @@ description:
 draft: false
 tags:
   - programming/sql
-aliases:
-  - select sql
-permalink: sql-select
+aliases: 
+permalink: 
 lang: uk
 ---
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гарячі клавіші у bash.md",
-                "mode": "source",
+                "file": "screen.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Гарячі клавіші у bash"
+              "title": "screen"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Гарячі клавіші у bash.md",
+                "file": "screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Гарячі клавіші у bash"
+              "title": "Outline of screen"
             }
           }
         ],
@@ -187,8 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "ff0b2c1d1202e47a",
   "lastOpenFiles": [
+    "SELECT.md",
+    "mysql command.md",
+    "Гарячі клавіші у bash.md",
     "mysqlbinlog.md",
     "null.md",
     "shebang.md",
@@ -210,11 +213,8 @@
     "systemd.service.md",
     "systemd.md",
     "sed.md",
-    "SELECT.md",
     "SQL.md",
     "screen.md",
-    "mysqld.md",
-    "mysql command.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
