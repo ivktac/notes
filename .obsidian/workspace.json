@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Метадані файлу (inode).md",
-                "mode": "source",
+                "file": "Конвеєри (pipes).md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Метадані файлу (inode)"
+              "title": "Конвеєри (pipes)"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Метадані файлу (inode).md",
+                "file": "Конвеєри (pipes).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Метадані файлу (inode)"
+              "title": "Outline of Конвеєри (pipes)"
             }
           }
         ],
@@ -189,6 +189,7 @@
   },
   "active": "904f68ff250a8214",
   "lastOpenFiles": [
+    "Метадані файлу (inode).md",
     "Ansible.md",
     "Ansible Tasks.md",
     "ansible playbook.md",
@@ -214,7 +215,6 @@
     "Apache HTTP Server.md",
     "ARP.md",
     "awk.md",
-    "at.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
