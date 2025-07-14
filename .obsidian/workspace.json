@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Automating/Системні утиліти.md",
+                "file": "notes/ARP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Системні утиліти"
+              "title": "Backlinks for ARP"
             }
           },
           {
@@ -133,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/ARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ARP"
             }
           },
           {
@@ -171,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,6 +191,8 @@
   },
   "active": "e998c51192e51d04",
   "lastOpenFiles": [
+    "notes/як працює ARP?.md",
+    "notes/ARP.md",
     "notes/Apache HTTP Server.md",
     "notes/HTTP.md",
     "notes/Журналювання у Apache.md",
@@ -203,7 +206,6 @@
     "notes/screen.md",
     "notes/gzip.md",
     "notes/at.md",
-    "notes/ARP.md",
     "notes/як отримати метадані файлу?.md",
     "notes/Моніторинг використання часу процесором.md",
     "notes/Основні ресурси системи.md",
@@ -215,7 +217,6 @@
     "notes/Метрики swap.md",
     "notes/Моніторинг процесора.md",
     "notes/top.md",
-    "notes/Метрики мережі.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
