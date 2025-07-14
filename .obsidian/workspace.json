@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ansible playbook.md",
+                "file": "Ansible.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ansible playbook"
+              "title": "Ansible"
             }
           }
         ],
@@ -238,8 +238,8 @@
   },
   "active": "bfc69a7bb52b70e3",
   "lastOpenFiles": [
-    "Ansible.md",
     "ansible playbook.md",
+    "Ansible.md",
     "Ansible modules.md",
     "Ansible templates.md",
     "Ansible vault.md",
