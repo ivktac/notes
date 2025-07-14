@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "462a8dd730932886",
+        "id": "cd6aa218cf550e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "8c0f9cc07c8433ba",
+            "id": "904f68ff250a8214",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Ansible.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ansible"
-            }
-          },
-          {
-            "id": "681837d41ce9976e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/ansible playbook.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ansible playbook"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ansible playbook.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ansible playbook"
+              "title": "Backlinks"
             }
           },
           {
@@ -158,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ansible playbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ansible playbook"
+              "title": "Outgoing links"
             }
           },
           {
@@ -187,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ansible playbook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ansible playbook"
+              "title": "Outline"
             }
           }
         ],
@@ -214,34 +172,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "681837d41ce9976e",
+  "active": "904f68ff250a8214",
   "lastOpenFiles": [
-    "notes/Ansible Tasks.md",
-    "notes/Ansible modules.md",
-    "notes/ansible playbook.md",
-    "notes/Ansible inventory.md",
-    "notes/Ansible.md",
-    "notes/як працює ansible?.md",
-    "notes/для чого потрібен ansible?.md",
+    "Ansible.md",
+    "Ansible Tasks.md",
+    "ansible playbook.md",
+    "Ansible modules.md",
+    "Ansible inventory.md",
+    "як працює ansible?.md",
+    "для чого потрібен ansible?.md",
     "index.md",
-    "notes/iptraf.md",
-    "notes/dstat.md",
-    "notes/sar.md",
-    "notes/Моніторинг мережі.md",
-    "notes/Метрики насичення мережі.md",
-    "notes/Метрики мережі.md",
-    "notes/OOM-killer.md",
-    "notes/Моніторинг пам'яті.md",
-    "notes/Моніторинг дискової підсистеми.md",
-    "notes/vmstat.md",
-    "notes/top.md",
-    "notes/Моніторингові утиліти.md",
-    "notes/Траблшутінг швидкодії.md",
-    "notes/NAT таблиця.md",
-    "notes/Apache HTTP Server.md",
-    "notes/ARP.md",
-    "notes/awk.md",
-    "notes/at.md",
+    "iptraf.md",
+    "dstat.md",
+    "sar.md",
+    "Моніторинг мережі.md",
+    "Метрики насичення мережі.md",
+    "Метрики мережі.md",
+    "OOM-killer.md",
+    "Моніторинг пам'яті.md",
+    "Моніторинг дискової підсистеми.md",
+    "vmstat.md",
+    "top.md",
+    "Моніторингові утиліти.md",
+    "Траблшутінг швидкодії.md",
+    "NAT таблиця.md",
+    "Apache HTTP Server.md",
+    "ARP.md",
+    "awk.md",
+    "at.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
