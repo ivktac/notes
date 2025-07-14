@@ -11,10 +11,24 @@
             "id": "cf1962fe4fcccb1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "man.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "man"
             }
           }
         ]
@@ -173,8 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "cf1962fe4fcccb1f",
   "lastOpenFiles": [
+    "Docker.md",
+    "man.md",
+    "Як і чому з'явився Docker?.md",
+    "цикли розробки програмного забезпечення.md",
+    "контейнери.md",
     "how to set up password authentication for apache?.md",
     "Ansible Roles.md",
     "Ansible variables.md",
@@ -196,11 +215,6 @@
     "Гарячі клавіші у bash.md",
     "mysqlbinlog.md",
     "null.md",
-    "shebang.md",
-    "firewall.md",
-    "tcp ip.md",
-    "symlink.md",
-    "shell.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
