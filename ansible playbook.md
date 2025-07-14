@@ -15,7 +15,7 @@ lang: uk
 ---
 
 > [!tldr]
-> **Playbook** - це [[YAML]]-файл, що описує завдання для різних груп машин.
+> **Playbook** - це [[YAML]]-файл, що описує [[ansible tasks|завдання]] для різних груп машин.
 > 
 
 > [!info] Кожен playbook містить:
@@ -31,7 +31,18 @@ lang: uk
 > Після запуску можна йти пити каву - [[Ansible]] все зробить сам. :)))
 
 > [!tip] Краще створювати окремі playbooks для логічних завдань: (один для веб-серверу, інший для БД і так далі)
+
+> [!tip] Плейбуки можуть викликати інші плейбуки
+> > [!example]
+> > ```yaml
+> > - hosts: localhost
+> >   tasks:
+> > 	 - name: Run common setup tasks
+> > 	   include_tasks: common_setup.yml
+> > ```
+
+
+
 ## Див. також
 
 - [[Ansible inventory]]
-- [[Ansible Tasks]]

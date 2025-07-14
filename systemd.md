@@ -7,7 +7,7 @@ tags:
   - man
   - os/process
   - os/initialization
-  - systemd
+  - devops/systemd
 aliases:
   - сістемд
 permalink: man-systemd

@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - man
-  - systemd
+  - devops/systemd
 aliases:
   - systemd services
 permalink: man-systemd-service

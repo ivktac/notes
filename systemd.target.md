@@ -5,7 +5,7 @@ description:
 draft: false
 tags:
   - man
-  - systemd
+  - devops/systemd
 aliases:
   - systemd targets
   - таргети сістемд

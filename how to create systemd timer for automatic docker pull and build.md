@@ -6,7 +6,7 @@ draft: false
 tags:
   - man
   - os/automation
-  - docker
+  - devops/docker
 aliases: 
 permalink: systemd-timer-automatic-docker-pull
 lang: uk
