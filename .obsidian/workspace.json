@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Моніторинг пам'яті.md",
+                "file": "notes/Основні ресурси системи.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Моніторинг пам'яті"
+              "title": "Основні ресурси системи"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Моніторинг пам'яті.md",
+                "file": "notes/Основні ресурси системи.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Моніторинг пам'яті"
+              "title": "Outline of Основні ресурси системи"
             }
           }
         ],
@@ -214,10 +214,10 @@
   },
   "active": "5330bbe19dd57fda",
   "lastOpenFiles": [
+    "notes/Траблшутінг швидкодії.md",
+    "notes/Моніторинг пам'яті.md",
     "notes/Метрики пам'яті.md",
     "notes/Метрики swap.md",
-    "notes/Моніторинг пам'яті.md",
-    "notes/Траблшутінг швидкодії.md",
     "notes/Моніторинг процесора.md",
     "notes/Моніторинг використання часу процесором.md",
     "notes/top.md",
