@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible.md",
+                "file": "ansible playbook.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ansible"
+              "title": "ansible playbook"
             }
           }
         ],
@@ -238,6 +238,7 @@
   },
   "active": "bfc69a7bb52b70e3",
   "lastOpenFiles": [
+    "Ansible.md",
     "ansible playbook.md",
     "Ansible modules.md",
     "Ansible templates.md",
@@ -263,7 +264,6 @@
     "history commands.md",
     "Індекс.md",
     "Зовнішній ключ.md",
-    "wan.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
