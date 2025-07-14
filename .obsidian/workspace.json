@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "980420ea4b19afe0",
+        "id": "3d02ec856d1c81f4",
         "type": "tabs",
         "children": [
           {
-            "id": "1447ad366699fd37",
+            "id": "55f285dcc7c562ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible Roles.md",
+                "file": "how to set up password authentication for apache?.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ansible Roles"
-            }
-          },
-          {
-            "id": "52e10d788c6f0e0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ansible variables.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ansible variables"
-            }
-          },
-          {
-            "id": "bfc69a7bb52b70e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "популярні архіви.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "популярні архіви"
+              "title": "how to set up password authentication for apache?"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,8 +94,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,10 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfc69a7bb52b70e3",
+  "active": "55f285dcc7c562ad",
   "lastOpenFiles": [
-    "Реплікація у MySQL.md",
+    "how to set up password authentication for apache?.md",
+    "Ansible Roles.md",
+    "Ansible variables.md",
     "популярні архіви.md",
+    "Реплікація у MySQL.md",
     "мережеве обладнання.md",
     "користувачі та права доступу.md",
     "мережа.md",
@@ -249,8 +202,6 @@
     "Ansible modules.md",
     "Ansible templates.md",
     "Ansible vault.md",
-    "Ansible variables.md",
-    "Ansible Roles.md",
     "Ansible tags.md",
     "how to create systemd timer for automatic docker pull and build.md",
     "screen.md",
@@ -264,7 +215,6 @@
     "tcp ip.md",
     "symlink.md",
     "shell.md",
-    "osi model.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
