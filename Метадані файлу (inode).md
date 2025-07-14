@@ -1,6 +1,6 @@
 ---
 date: 2025-07-03
-title: Метадані файлу
+title: Метадані файлу (inode)
 description: 
 draft: 
 tags:
