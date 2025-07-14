@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "builtin set bash.md",
+                "file": "ls.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "builtin set bash"
+              "title": "ls"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "builtin set bash.md",
+                "file": "ls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of builtin set bash"
+              "title": "Outline of ls"
             }
           }
         ],
@@ -189,6 +189,11 @@
   },
   "active": "904f68ff250a8214",
   "lastOpenFiles": [
+    "hardlink.md",
+    "HAVING.md",
+    "history commands.md",
+    "bunzip2.md",
+    "builtin set bash.md",
     "SELECT.md",
     "Конвеєри (pipes).md",
     "Метадані файлу (inode).md",
@@ -210,11 +215,6 @@
     "Моніторинг пам'яті.md",
     "Моніторинг дискової підсистеми.md",
     "vmstat.md",
-    "top.md",
-    "Моніторингові утиліти.md",
-    "Траблшутінг швидкодії.md",
-    "NAT таблиця.md",
-    "Apache HTTP Server.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",

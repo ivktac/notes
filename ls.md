@@ -10,7 +10,6 @@ tags:
   - os/filesystem
 aliases:
   - list
-  - ls
 permalink: 
 lang: uk
 ---
