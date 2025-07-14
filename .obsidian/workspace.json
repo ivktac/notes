@@ -4,88 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab406b8c6dc8aa18",
+        "id": "df25d2b0843e1154",
         "type": "tabs",
         "children": [
           {
-            "id": "efddc6dfe2cedb94",
+            "id": "54487e79bc7b3a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Делагування повноважень.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Делагування повноважень"
-            }
-          },
-          {
-            "id": "35ee31ed52765225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Делагування повноважень.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Делагування повноважень"
-            }
-          },
-          {
-            "id": "20ba6c81df6f9fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "спеціальні права.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": true,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "спеціальні права"
-            }
-          },
-          {
-            "id": "5663c53027fbbc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "права для каталогів.md",
+                "file": "Домашній каталог користувача.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "права для каталогів"
-            }
-          },
-          {
-            "id": "152d1466be6de534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Конфігураційні файли для користувачів.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Конфігураційні файли для користувачів"
+              "title": "Домашній каталог користувача"
             }
           }
         ]
@@ -285,19 +189,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efddc6dfe2cedb94",
+  "active": "54487e79bc7b3a73",
   "lastOpenFiles": [
     "користувачі та права доступу.md",
+    "Облікові записи.md",
+    "Права доступу.md",
+    "Делагування повноважень.md",
     "Атрибути файлів.md",
     "useradd.md",
     "usermod.md",
     "passwd.md",
     "userdel.md",
-    "Делагування повноважень.md",
-    "Права доступу.md",
     "спеціальні права.md",
     "права для каталогів.md",
-    "Облікові записи.md",
     "Конфігураційні файли для користувачів.md",
     "Домашній каталог користувача.md",
     "Конфігураційні файли користувачів.md",
