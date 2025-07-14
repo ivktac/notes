@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8016edcdca0bac13",
+        "id": "255140034fa3d01b",
         "type": "tabs",
         "children": [
           {
-            "id": "cf1962fe4fcccb1f",
+            "id": "fd6f59d3eca38bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "man.md",
+                "file": "POSIX.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,371 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "man"
+              "title": "POSIX"
+            }
+          },
+          {
+            "id": "6d70d1447ca7bc38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Token.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Token"
+            }
+          },
+          {
+            "id": "ce0ce6172c0bb771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "сигнали процесів.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "сигнали процесів"
+            }
+          },
+          {
+            "id": "4ab3499d4f023de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Команда.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Команда"
+            }
+          },
+          {
+            "id": "4496bc9c8ccdbc4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unalias.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "unalias"
+            }
+          },
+          {
+            "id": "9b85822f4f6b6e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "реплікація.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "реплікація"
+            }
+          },
+          {
+            "id": "a689748afacde2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subnet mask.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "subnet mask"
+            }
+          },
+          {
+            "id": "3d1011fb481a2457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "less.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "less"
+            }
+          },
+          {
+            "id": "753e9ca27b8524b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кортеж.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Кортеж"
+            }
+          },
+          {
+            "id": "0e9450077a700f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history commands.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "history commands"
+            }
+          },
+          {
+            "id": "a7ad831c127e0e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network layer.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "network layer"
+            }
+          },
+          {
+            "id": "62c7a7cff23cd9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "application layer.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "application layer"
+            }
+          },
+          {
+            "id": "da2c2b77b6105844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "filesystem hierarchy standard (FHS).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "filesystem hierarchy standard (FHS)"
+            }
+          },
+          {
+            "id": "a0d0650d0f844a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Змінін середовища за замовчування у Bash.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Змінін середовища за замовчування у Bash"
+            }
+          },
+          {
+            "id": "68ae956fa960e68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "як отримати позицію бінарного журналу?.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "як отримати позицію бінарного журналу?"
+            }
+          },
+          {
+            "id": "80b631b26c655621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сигнал.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Сигнал"
             }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -63,7 +424,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"draft\":true]",
+                "query": "tag:#programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -187,34 +548,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf1962fe4fcccb1f",
+  "active": "68ae956fa960e68c",
   "lastOpenFiles": [
-    "Docker.md",
-    "man.md",
-    "Як і чому з'явився Docker?.md",
-    "цикли розробки програмного забезпечення.md",
-    "контейнери.md",
-    "how to set up password authentication for apache?.md",
-    "Ansible Roles.md",
-    "Ansible variables.md",
-    "популярні архіви.md",
-    "Реплікація у MySQL.md",
-    "мережеве обладнання.md",
-    "користувачі та права доступу.md",
-    "мережа.md",
-    "Ansible.md",
-    "ansible playbook.md",
-    "Ansible modules.md",
-    "Ansible templates.md",
-    "Ansible vault.md",
-    "Ansible tags.md",
-    "how to create systemd timer for automatic docker pull and build.md",
-    "screen.md",
-    "SELECT.md",
-    "mysql command.md",
-    "Гарячі клавіші у bash.md",
-    "mysqlbinlog.md",
-    "null.md",
+    "Змінін середовища за замовчування у Bash.md",
+    "як отримати позицію бінарного журналу?.md",
+    "bash configuration.md",
+    "filesystem hierarchy standard (FHS).md",
+    "файлова система.md",
+    "перенаправлення потоків.md",
+    "Гарячі клавіші у history.md",
+    "Класи символів.md",
+    "application layer.md",
+    "network layer.md",
+    "системні бібліотеки.md",
+    "history commands.md",
+    "symlink.md",
+    "ARP.md",
+    "Кортеж.md",
+    "less.md",
+    "subnet mask.md",
+    "IP.md",
+    "реплікація.md",
+    "wildcards.md",
+    "Класи символів регулярних виразів.md",
+    "unalias.md",
+    "Команда.md",
+    "сигнали процесів.md",
+    "Сигнал.md",
+    "which.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
