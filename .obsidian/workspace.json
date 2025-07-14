@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "328553f560aa3252",
+        "id": "462a8dd730932886",
         "type": "tabs",
         "children": [
           {
-            "id": "f36edd92e4ad5900",
+            "id": "8c0f9cc07c8433ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Моніторинг дискової підсистеми.md",
+                "file": "notes/Ansible.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Моніторинг дискової підсистеми"
+              "title": "Ansible"
             }
           },
           {
-            "id": "3d0fddcca1ff1c17",
+            "id": "681837d41ce9976e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/iptraf.md",
-                "mode": "source",
+                "file": "notes/ansible playbook.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iptraf"
+              "title": "ansible playbook"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/iptraf.md",
+                "file": "notes/ansible playbook.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for iptraf"
+              "title": "Backlinks for ansible playbook"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/iptraf.md",
+                "file": "notes/ansible playbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from iptraf"
+              "title": "Outgoing links from ansible playbook"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/iptraf.md",
+                "file": "notes/ansible playbook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of iptraf"
+              "title": "Outline of ansible playbook"
             }
           }
         ],
@@ -214,10 +214,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d0fddcca1ff1c17",
+  "active": "681837d41ce9976e",
   "lastOpenFiles": [
-    "notes/dstat.md",
+    "notes/Ansible Tasks.md",
+    "notes/Ansible modules.md",
+    "notes/ansible playbook.md",
+    "notes/Ansible inventory.md",
+    "notes/Ansible.md",
+    "notes/як працює ansible?.md",
+    "notes/для чого потрібен ansible?.md",
+    "index.md",
     "notes/iptraf.md",
+    "notes/dstat.md",
     "notes/sar.md",
     "notes/Моніторинг мережі.md",
     "notes/Метрики насичення мережі.md",
@@ -234,14 +242,6 @@
     "notes/ARP.md",
     "notes/awk.md",
     "notes/at.md",
-    "notes/IP.md",
-    "notes/як працює ARP?.md",
-    "notes/HTTP.md",
-    "notes/Журналювання у Apache.md",
-    "index.md",
-    "notes/Як створити systemd юніт?.md",
-    "notes/як працюють віртуальні хости у Apache?.md",
-    "notes/Стратегії резервного копіювання.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
