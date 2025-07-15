@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df25d2b0843e1154",
+        "id": "9578b1a7191bcbb3",
         "type": "tabs",
         "children": [
           {
-            "id": "54487e79bc7b3a73",
+            "id": "d90963afa6b90dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Домашній каталог користувача.md",
+                "file": "мережеве обладнання.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Домашній каталог користувача"
+              "title": "мережеве обладнання"
+            }
+          },
+          {
+            "id": "ffa3ffae8f4a75d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAC.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MAC"
+            }
+          },
+          {
+            "id": "d8ff3285e20dc590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HTTP"
+            }
+          },
+          {
+            "id": "c855a2a7a32f15db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Роутер.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Роутер"
+            }
+          },
+          {
+            "id": "36d7b24f950b0495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network setup.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "network setup"
+            }
+          },
+          {
+            "id": "7709b17c4c27d318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Конфігураційні файли для DNS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Конфігураційні файли для DNS"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,22 +282,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screen.md",
+                "file": "Конфігураційні файли для DNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of screen"
+              "title": "Outline of Конфігураційні файли для DNS"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +309,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54487e79bc7b3a73",
+  "active": "7709b17c4c27d318",
   "lastOpenFiles": [
+    "DNS.md",
+    "Конфігураційні файли для DNS.md",
+    "network setup.md",
+    "мережа.md",
+    "мережеве обладнання.md",
+    "Світч.md",
+    "домен колізій.md",
+    "Роутер.md",
+    "Хаб.md",
+    "HTTP.md",
+    "Порт.md",
+    "MAC.md",
+    "IP.md",
+    "мережеві протоколи.md",
+    "Домашній каталог користувача.md",
     "користувачі та права доступу.md",
     "Облікові записи.md",
     "Права доступу.md",
@@ -202,21 +337,6 @@
     "userdel.md",
     "спеціальні права.md",
     "права для каталогів.md",
-    "Конфігураційні файли для користувачів.md",
-    "Домашній каталог користувача.md",
-    "Конфігураційні файли користувачів.md",
-    "Сигнал.md",
-    "POSIX.md",
-    "Token.md",
-    "сигнали процесів.md",
-    "Команда.md",
-    "unalias.md",
-    "реплікація.md",
-    "subnet mask.md",
-    "less.md",
-    "Кортеж.md",
-    "history commands.md",
-    "network layer.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
