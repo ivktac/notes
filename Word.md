@@ -4,7 +4,7 @@ title: Word
 description: 
 draft: false
 tags:
-  - progamming/concepts
+  - programming/concepts
   - os/text-processing
 aliases:
   - слово

@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "09a5e8ee895cc514",
+        "id": "71e1f5d843c6953f",
         "type": "tabs",
         "children": [
           {
-            "id": "ae8005e50c461be9",
+            "id": "faecb3ec16d399cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lshw.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lshw"
-            }
-          },
-          {
-            "id": "4d50e0e5c8bc49de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dmidecode.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dmidecode"
-            }
-          },
-          {
-            "id": "1be033001d42757c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ip command.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ip command"
-            }
-          },
-          {
-            "id": "757cde3bbc414663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NetworkManager.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NetworkManager"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +80,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,17 +146,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NetworkManager.md",
+                "file": "ніколи не використовуй git commit -m,  використовуй git commit -v.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NetworkManager"
+              "title": "Outline of ніколи не використовуй git commit -m,  використовуй git commit -v"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -261,13 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "757cde3bbc414663",
+  "active": "faecb3ec16d399cb",
   "lastOpenFiles": [
-    "ifcfg.md",
-    "NetworkManager.md",
-    "ip command.md",
-    "dmidecode.md",
+    "ніколи не використовуй git commit -m,  використовуй git commit -v.md",
     "lshw.md",
+    "dmidecode.md",
+    "ip command.md",
+    "NetworkManager.md",
+    "ifcfg.md",
     "Постанова №952 - Неповна процедура обробки ПД.md",
     "постанова № 952.md",
     "journal/2025-07-15.md",
@@ -288,7 +201,6 @@
     "Домашній каталог користувача.md",
     "користувачі та права доступу.md",
     "Облікові записи.md",
-    "Права доступу.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
