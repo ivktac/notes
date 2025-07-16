@@ -11,13 +11,52 @@
             "id": "faecb3ec16d399cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Point-in-Time відновлення.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Point-in-Time відновлення"
+            }
+          },
+          {
+            "id": "8ad758dc0bfe0c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "змінна.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "змінна"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,11 +119,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8cd11f8b854d35f2",
@@ -173,8 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faecb3ec16d399cb",
+  "active": "8ad758dc0bfe0c75",
   "lastOpenFiles": [
+    "Point-in-Time відновлення.md",
+    "змінна.md",
+    "Бінарні журнали у MySQL.md",
+    "реплікація.md",
+    "Типи реплікацій.md",
+    "Формати реплікацій.md",
     "ніколи не використовуй git commit -m,  використовуй git commit -v.md",
     "lshw.md",
     "dmidecode.md",
@@ -195,12 +242,6 @@
     "Світч.md",
     "домен колізій.md",
     "Хаб.md",
-    "Порт.md",
-    "IP.md",
-    "мережеві протоколи.md",
-    "Домашній каталог користувача.md",
-    "користувачі та права доступу.md",
-    "Облікові записи.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
