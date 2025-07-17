@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71e1f5d843c6953f",
+        "id": "378aef420d9a11b8",
         "type": "tabs",
         "children": [
           {
-            "id": "faecb3ec16d399cb",
+            "id": "0e236e34af33a328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Point-in-Time відновлення.md",
+                "file": "Ansible modules.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Point-in-Time відновлення"
-            }
-          },
-          {
-            "id": "8ad758dc0bfe0c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "змінна.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "змінна"
+              "title": "Ansible modules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,13 +94,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8cd11f8b854d35f2",
@@ -214,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ad758dc0bfe0c75",
+  "active": "0e236e34af33a328",
   "lastOpenFiles": [
-    "Point-in-Time відновлення.md",
+    "Ansible inventory.md",
     "змінна.md",
+    "Point-in-Time відновлення.md",
     "Бінарні журнали у MySQL.md",
     "реплікація.md",
     "Типи реплікацій.md",
@@ -241,7 +215,6 @@
     "мережа.md",
     "Світч.md",
     "домен колізій.md",
-    "Хаб.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",

@@ -15,7 +15,7 @@ lang: uk
 > [!tldr]
 > **Інвенторія (Inventory)** — це файл, що містить список машин для управління.
 
-> [!tip] Машини можна групувати за ролями (webservers, workstations, databases).
+> [!tip] Машини можна групувати за ролями (напр. webservers, workstations, databases).
 
 > [!example] Наприклад
 > ```ini
