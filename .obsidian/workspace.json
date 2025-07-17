@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "378aef420d9a11b8",
+        "id": "062a992160b9bcc8",
         "type": "tabs",
         "children": [
           {
-            "id": "0e236e34af33a328",
+            "id": "7a6b1aeae5983033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible modules.md",
+                "file": "SSH.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ansible modules"
+              "title": "SSH"
             }
           }
         ]
@@ -187,10 +187,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e236e34af33a328",
+  "active": "7a6b1aeae5983033",
   "lastOpenFiles": [
-    "Ansible templates.md",
+    "Semi-synchronous реплікація.md",
+    "SSH.md",
+    "physical layer.md",
+    "рівні моделі OSI.md",
+    "osi model.md",
     "Ansible modules.md",
+    "Ansible templates.md",
     "Ansible inventory.md",
     "змінна.md",
     "Point-in-Time відновлення.md",
@@ -210,11 +215,6 @@
     "мережеве обладнання.md",
     "MAC.md",
     "HTTP.md",
-    "Роутер.md",
-    "network setup.md",
-    "Конфігураційні файли для DNS.md",
-    "DNS.md",
-    "мережа.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
