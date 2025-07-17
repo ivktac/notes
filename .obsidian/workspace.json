@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proxy server.md",
-                "mode": "source",
+                "file": "VPN.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "proxy server"
+              "title": "VPN"
             }
           }
         ],
@@ -287,8 +287,10 @@
   },
   "active": "c2d625bb0ffc9aee",
   "lastOpenFiles": [
-    "load balancer.md",
     "proxy server.md",
+    "VPN.md",
+    "HTTP.md",
+    "load balancer.md",
     "способи захисту мережі.md",
     "Система запобігання вторгень.md",
     "Система виявлення вторгнень.md",
@@ -313,8 +315,6 @@
     "private/bandit games.md",
     "private",
     "SSH.md",
-    "Semi-synchronous реплікація.md",
-    "physical layer.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
