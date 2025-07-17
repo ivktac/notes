@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "способи захисту мережі"
             }
+          },
+          {
+            "id": "46713cb2267a4a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "load balancer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "load balancer"
+            }
+          },
+          {
+            "id": "c2d625bb0ffc9aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proxy server.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "proxy server"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,10 +285,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97ffe0b3a2500aba",
+  "active": "c2d625bb0ffc9aee",
   "lastOpenFiles": [
-    "Система запобігання вторгень.md",
+    "load balancer.md",
+    "proxy server.md",
     "способи захисту мережі.md",
+    "Система запобігання вторгень.md",
     "Система виявлення вторгнень.md",
     "Пакетні фільтри.md",
     "Типи фаєрволів.md",
@@ -265,8 +315,6 @@
     "SSH.md",
     "Semi-synchronous реплікація.md",
     "physical layer.md",
-    "osi model.md",
-    "Ansible modules.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
