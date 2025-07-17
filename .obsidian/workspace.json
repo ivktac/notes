@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH.md",
+                "file": "Аналоговий модем.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "Аналоговий модем"
             }
           }
         ]
@@ -189,8 +189,11 @@
   },
   "active": "7a6b1aeae5983033",
   "lastOpenFiles": [
-    "Semi-synchronous реплікація.md",
+    "мережеве обладнання.md",
+    "Хаб.md",
+    "Аналоговий модем.md",
     "SSH.md",
+    "Semi-synchronous реплікація.md",
     "physical layer.md",
     "рівні моделі OSI.md",
     "osi model.md",
@@ -212,9 +215,6 @@
     "Постанова №952 - Неповна процедура обробки ПД.md",
     "постанова № 952.md",
     "journal/2025-07-15.md",
-    "мережеве обладнання.md",
-    "MAC.md",
-    "HTTP.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
