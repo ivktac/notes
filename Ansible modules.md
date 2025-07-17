@@ -15,8 +15,4 @@ lang: uk
 - `yum`, `dnf` - встановлення пакетів на Linux диструбитивах (Fedora, Red Hat, Oracle etc)
 - `systemd` - управління сервісами через [[systemd]]
 - `win_chocolatey` - встановлення ПЗ на Windows
-- `template` - створення файлів з шаблонів (([[Ansible templates]]))
-
-## Див. також
-
-- [[Ansible templates|Шаблони ansible]]
+- `template` - створення файлів з шаблонів ([[Ansible templates]])

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ansible modules.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -189,6 +189,8 @@
   },
   "active": "0e236e34af33a328",
   "lastOpenFiles": [
+    "Ansible templates.md",
+    "Ansible modules.md",
     "Ansible inventory.md",
     "змінна.md",
     "Point-in-Time відновлення.md",
@@ -213,8 +215,6 @@
     "Конфігураційні файли для DNS.md",
     "DNS.md",
     "мережа.md",
-    "Світч.md",
-    "домен колізій.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
