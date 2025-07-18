@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VPN.md",
+                "file": "Point-in-Time відновлення.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VPN"
+              "title": "Point-in-Time відновлення"
             }
           }
         ],
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8cd11f8b854d35f2",
@@ -287,8 +288,8 @@
   },
   "active": "c2d625bb0ffc9aee",
   "lastOpenFiles": [
-    "proxy server.md",
     "VPN.md",
+    "proxy server.md",
     "HTTP.md",
     "load balancer.md",
     "способи захисту мережі.md",
