@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f91a23e5f2426e",
+        "id": "de00be6eba8dbbb9",
         "type": "tabs",
         "children": [
           {
-            "id": "77cea668202420cf",
+            "id": "f12c07532c79034d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "типи vpn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "типи vpn"
             }
           }
         ]
@@ -173,15 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012f432014736c78",
+  "active": "f12c07532c79034d",
   "lastOpenFiles": [
+    "Host-to-host VPN.md",
+    "типи vpn.md",
+    "Remote access VPN.md",
+    "Site-to-Site VPN.md",
+    "VPN.md",
+    "_attachments/Pasted image 20250717134827.png",
     "Пакетні фільтри.md",
     "Система виявлення вторгнень.md",
     "способи захисту мережі.md",
     "load balancer.md",
     "Point-in-Time відновлення.md",
     "червоний борщик рецепт.md",
-    "VPN.md",
     "proxy server.md",
     "HTTP.md",
     "Система запобігання вторгень.md",
@@ -197,11 +216,6 @@
     "Multilayer Switch.md",
     "Бездротова точка доступу.md",
     "Аналоговий модем.md",
-    "Хаб.md",
-    "_attachments/Pasted image 20250717134827.png",
-    "How to open a  dashed filename using terminal?.md",
-    "data link layer.md",
-    "рівні tcp ip.md",
     "private",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
