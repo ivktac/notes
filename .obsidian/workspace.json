@@ -4,155 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a6f6eff7dcc9c315",
+        "id": "d2f91a23e5f2426e",
         "type": "tabs",
         "children": [
           {
-            "id": "0e70d9ce1f1f8fa5",
+            "id": "77cea668202420cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Пакетні фільтри.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Пакетні фільтри"
-            }
-          },
-          {
-            "id": "c53542bb906ac8c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Система виявлення вторгнень.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Система виявлення вторгнень"
-            }
-          },
-          {
-            "id": "97ffe0b3a2500aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "способи захисту мережі.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "способи захисту мережі"
-            }
-          },
-          {
-            "id": "46713cb2267a4a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "load balancer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "load balancer"
-            }
-          },
-          {
-            "id": "c2d625bb0ffc9aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Point-in-Time відновлення.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Point-in-Time відновлення"
-            }
-          },
-          {
-            "id": "42b32851d8264b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "червоний борщик рецепт.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "червоний борщик рецепт"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +80,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8cd11f8b854d35f2",
@@ -310,18 +173,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42b32851d8264b05",
+  "active": "012f432014736c78",
   "lastOpenFiles": [
+    "Пакетні фільтри.md",
+    "Система виявлення вторгнень.md",
+    "способи захисту мережі.md",
+    "load balancer.md",
     "Point-in-Time відновлення.md",
     "червоний борщик рецепт.md",
     "VPN.md",
     "proxy server.md",
     "HTTP.md",
-    "load balancer.md",
-    "способи захисту мережі.md",
     "Система запобігання вторгень.md",
-    "Система виявлення вторгнень.md",
-    "Пакетні фільтри.md",
     "Типи фаєрволів.md",
     "firewall.md",
     "private ip.md",
