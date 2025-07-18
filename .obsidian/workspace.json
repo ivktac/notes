@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Point-in-Time відновлення"
             }
+          },
+          {
+            "id": "42b32851d8264b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "червоний борщик рецепт.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "червоний борщик рецепт"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -286,8 +310,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2d625bb0ffc9aee",
+  "active": "42b32851d8264b05",
   "lastOpenFiles": [
+    "Point-in-Time відновлення.md",
+    "червоний борщик рецепт.md",
     "VPN.md",
     "proxy server.md",
     "HTTP.md",
@@ -313,9 +339,7 @@
     "How to open a  dashed filename using terminal?.md",
     "data link layer.md",
     "рівні tcp ip.md",
-    "private/bandit games.md",
     "private",
-    "SSH.md",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
     "60 Programming",
