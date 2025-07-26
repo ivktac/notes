@@ -3,7 +3,10 @@ date: 2025-07-26
 title: cgroups
 description: 
 draft: false
-tags: 
+tags:
+  - api/linux
+  - os/🐧linux
+  - devops/containerzation
 aliases: 
 permalink: 
 lang: uk

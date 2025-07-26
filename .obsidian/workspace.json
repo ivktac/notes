@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de00be6eba8dbbb9",
+        "id": "87cfe64f1c25687e",
         "type": "tabs",
         "children": [
           {
-            "id": "f12c07532c79034d",
+            "id": "b92b9e200f0c79ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "типи vpn.md",
+                "file": "union mount filesystems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "типи vpn"
+              "title": "union mount filesystems"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,10 +188,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f12c07532c79034d",
+  "active": "b92b9e200f0c79ea",
   "lastOpenFiles": [
-    "Host-to-host VPN.md",
+    "linux cgroups.md",
+    "union mount filesystems.md",
+    "linux namespaces.md",
+    "_attachments/linux cgroups.png",
+    "_attachments/linux namespaces.png",
+    "контейнери.md",
+    "Контейнеризація.md",
+    "Як і чому з'явився Docker?.md",
+    "віртуалізація.md",
     "типи vpn.md",
+    "Host-to-host VPN.md",
     "Remote access VPN.md",
     "Site-to-Site VPN.md",
     "VPN.md",
@@ -208,14 +218,6 @@
     "firewall.md",
     "private ip.md",
     "network layer.md",
-    "Світч.md",
-    "рівні моделі OSI.md",
-    "Роутер.md",
-    "lan.md",
-    "мережеве обладнання.md",
-    "Multilayer Switch.md",
-    "Бездротова точка доступу.md",
-    "Аналоговий модем.md",
     "private",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
