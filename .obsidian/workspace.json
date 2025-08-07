@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87cfe64f1c25687e",
+        "id": "c53c4788d137ed80",
         "type": "tabs",
         "children": [
           {
-            "id": "b92b9e200f0c79ea",
+            "id": "3e1b86116130c520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "union mount filesystems.md",
+                "file": "systemd.timer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "union mount filesystems"
+              "title": "systemd.timer"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,36 +188,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b92b9e200f0c79ea",
+  "active": "3e1b86116130c520",
   "lastOpenFiles": [
-    "linux cgroups.md",
-    "union mount filesystems.md",
-    "linux namespaces.md",
-    "_attachments/linux cgroups.png",
-    "_attachments/linux namespaces.png",
-    "контейнери.md",
-    "Контейнеризація.md",
+    "systemd.service.md",
+    "systemd.target.md",
+    "Як створити systemd юніт?.md",
+    "як працюють віртуальні хости у Apache?.md",
+    "як працює ARP?.md",
+    "як працює ansible?.md",
+    "як показати тільки каталоги?.md",
+    "як підключитись до серверу mysql?.md",
+    "як переглянути привілеї у MySQL?.md",
+    "як перевірити чи працює репліка у MySQL?.md",
+    "як перевірити чи працює mysql на хості?.md",
+    "як перевірити стан батереї?.md",
+    "як перевірити використання пам'яті процесами?.md",
+    "як отримати статистику по використанню inode у файловій системі?.md",
+    "як отримати позицію бінарного журналу?.md",
+    "як отримати метадані файлу?.md",
+    "як отримати inode файлу?.md",
+    "Як обробляються ланцюжки у iptables?.md",
+    "як налаштувати репліку сервер у mysql?.md",
+    "як налаштувати linux як роутер з nat?.md",
+    "як мігрувати існуючі дані до репліки у MySQL.md",
+    "як ідентифікуються користувачі у mysql?.md",
     "Як і чому з'явився Docker?.md",
-    "віртуалізація.md",
-    "типи vpn.md",
-    "Host-to-host VPN.md",
-    "Remote access VPN.md",
-    "Site-to-Site VPN.md",
-    "VPN.md",
+    "як знайти файл за номером inode?.md",
+    "як встановити percona server for mysql?.md",
+    "як вказати яку базу даних реплікувати у MySQL?.md",
+    "_attachments/linux namespaces.png",
+    "_attachments/linux cgroups.png",
     "_attachments/Pasted image 20250717134827.png",
-    "Пакетні фільтри.md",
-    "Система виявлення вторгнень.md",
-    "способи захисту мережі.md",
-    "load balancer.md",
-    "Point-in-Time відновлення.md",
-    "червоний борщик рецепт.md",
-    "proxy server.md",
-    "HTTP.md",
-    "Система запобігання вторгень.md",
-    "Типи фаєрволів.md",
-    "firewall.md",
-    "private ip.md",
-    "network layer.md",
     "private",
     "60 Programming/Algorithms",
     "60 Programming/Concepts",
