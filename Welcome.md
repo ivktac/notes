@@ -2,7 +2,8 @@
 created: 2025-08-07
 title: Welcome 🦄
 tags: 
-aliases: 
+aliases:
+  - index
 lang: uk
 ---
 > [!info] абоба...
