@@ -9,6 +9,7 @@ lang: uk
 > [!info] абоба...
 
 ## Linux and Network Administration
+
 - [[Linux]]
 - [[мережа]]
 - [[СКБД]] ([[MySQL]])

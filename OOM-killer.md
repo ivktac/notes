@@ -15,7 +15,7 @@ lang: uk
 > dmesg | grep killed
 >```
 
-> [!warning]- Як запобігти цій хуйні?
+> [!warning]- Як запобігти цій цьому?
 > - встановити ліміти по ресурсам для сервісів
 > - у [[MySQL]]: `innodb-buffer-pool-size`
 > - У [[Apache HTTP Server|Apache]]: `ServerLimit`, `ThreadLimit`, `MaxConnectionsPerChild`
