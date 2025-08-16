@@ -21,6 +21,3 @@ lang: uk
 > vars:
 > 	apache_port: 8080
 > ```
-## Див. також
-
-- [[Ansible vault]]

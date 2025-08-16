@@ -8,8 +8,6 @@ aliases:
   - conditions in bash
 lang: uk
 ---
-##  Види розгалужень
-
 - базовий if
 
 ```bash

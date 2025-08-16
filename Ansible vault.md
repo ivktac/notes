@@ -20,7 +20,3 @@ ansible-vault create secrets.yml
 ```bash
 ansible-playbook -i inventory.ini playbook.yml --ask-vault-pass
 ```
-
-## Див. також
-
-- [[Ansible variables]]

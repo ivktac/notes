@@ -2,9 +2,10 @@
 created: 2025-08-06
 title: Percona XtraBackup
 tags:
-  - mysql
-  - backups
   - database
+  - backups
+  - mysql
+  - percona
 aliases: 
 lang: uk
 ---

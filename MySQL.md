@@ -4,7 +4,6 @@ title: MySQL
 tags:
   - database
   - mysql
-  - open-source
 aliases: 
 lang: uk
 ---

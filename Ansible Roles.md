@@ -18,7 +18,3 @@ lang: uk
       include_role:
           name: powershell
 ```
-
-## Див. також
-
-- [[ansible playbook]]

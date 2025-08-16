@@ -19,7 +19,3 @@ lang: uk
 > ```bash
 > ansible-playbook -i inventory.ini playbook.yml --tags "apache"
 > ```
-
-## Див. також
-
-- [[Ansible variables]]

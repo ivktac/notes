@@ -7,6 +7,7 @@ tags:
   - web
 aliases:
   - HyperText Transfer Protocol
+  - HTTP/3
 lang: uk
 ---
 > [!tldr]

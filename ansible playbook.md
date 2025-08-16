@@ -34,9 +34,3 @@ lang: uk
 > 	 - name: Run common setup tasks
 > 	   include_tasks: common_setup.yml
 > ```
-
-
-
-## Див. також
-
-- [[Ansible inventory]]

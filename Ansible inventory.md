@@ -26,7 +26,3 @@ lang: uk
 > [databases]
 > 192.168.3.5
 > ```
-
-## Див. також
-
-- [[ansible playbook]]
