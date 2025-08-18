@@ -23,7 +23,6 @@ lang: uk
 | openWRT            | Лінукс в роутері yay!                                                                           | https://openwrt.org               |
 | Oracle Linux       | Продай свою душу святому Oracle                                                                 | https://oracle.com                |
 | Red Hat Enterprise | Опікун Linux Desktop, комерційний, стабільний, коорпоративний                                   | https://redhat.com                |
+## Корисні джерела
 
-## Див. також
-
-- [[Linux]]
+- https://www.howtogeek.com/68563/htg-explains-what-are-the-differences-between-linux-shells/
