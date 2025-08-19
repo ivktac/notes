@@ -4,7 +4,9 @@ title: Bash
 tags:
   - bash
   - scripting
-aliases: 
+  - gnu
+aliases:
+  - Bourne Again Shell
 lang: uk
 ---
 > [!tldr]
